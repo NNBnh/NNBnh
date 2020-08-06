@@ -1,4 +1,4 @@
-<h1 align="center"><b>NNB</b></p>
+<h1 align="center"><b>NNB</b></h1>
 <p align="center">Dev that <i>SuperB</i></p>
 
 # About
@@ -49,5 +49,5 @@ I am:
 [![Mastodon: @NNB@fosstodon.org](https://img.shields.io/mastodon/follow/255593?color=%233088D4&domain=https%3A%2F%2Ffosstodon.org&label=mastodon%20%40NNB%20%40fosstodon.org&logo=mastodon&logoColor=%23FFFFFF&style=for-the-badge)](https://fosstodon.org/web/accounts/255593)
 [![Discord: NNB's workshop](https://img.shields.io/discord/740843363343007754?color=%236E84D2&label=discord%20NNB%27s%20workshop&logo=discord&logoColor=%23FFFFFF&style=for-the-badge)](https://discord.gg/vJ22XK)
 
-## Project
+## Projects
 Here is some of my projects:
