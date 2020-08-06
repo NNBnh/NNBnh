@@ -12,25 +12,24 @@ I am:
 - and mainly, i am a **game developer** 🎮
 
 ## Skill
-```
+```python
 [NNB's skill tree]
 ├─ [Art]
-│    ├─ [UI] (User interface)
-│    │    ├─ GUI (Graphical user interface)
-│    │    ├─ TUI (Text-based user interface)
-│    │    └─ CLI (Command-line interface)
+│    ├─ [UI]
+│    │    ├─ GUI
+│    │    ├─ TUI
+│    │    └─ CLI
 │    │
 │    ├─ [Drawing]
-│    │    ├─ Pixel art
-│    │    ├─ ASCII art
+│    │    ├─ Pixel_art
+│    │    ├─ ASCII_art
 │    │    ├─ Tileset
 │    │    └─ Background
 │    │
-│    └─ [Modeling]
-│         └─ Blender
+│    └─ Modeling
 │
 ├─ [Programming]
-│    ├─ Unix shell script
+│    ├─ Unix_shell
 │    ├─ Python
 │    ├─ GDscript
 │    │
@@ -38,17 +37,17 @@ I am:
 │         ├─ HTML
 │         └─ CSS
 │
-└─ [Game design]
-     ├─ [Level/map design]
-     │    ├─ 2D platformer
-     │    ├─ Top down map
-     │    └─ 3D First-person environment
+└─ [Game_design]
+     ├─ [Level_design]
+     │    ├─ Platformer
+     │    ├─ Top_down
+     │    └─ Environmental_storytelling
      │
-     ├─ [Story writing]
-     │    ├─ Character building
-     │    └─ World building
+     ├─ [Story_writing]
+     │    ├─ Character_building
+     │    └─ World_building
      │
-     └─ UX (User experience)
+     └─ UX
 ```
 
 ## Socials
