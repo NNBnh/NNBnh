@@ -2,23 +2,22 @@
 <p align="center">Dev that <i>SuperB</i></p>
 
 # About
-Hi, my name is **Nguyễn Nhật Anh** and i live in Việt Nam 🇻🇳.
+Hi, my name is **Nguyễn Nhật Anh** and i live in **Việt Nam** 🇻🇳.
 
 I am:
 - an artist ✏
 - a UI/UX designer 🖼
 - a sorfware developer 💾
 - a web designer 📕
-- and mainly, i am a **game developer** 🎮
+- but mainly, i am a **game developer** 🎮
 
-## Skill
+## Skills
 ```python
 [NNB's skill tree]
 ├─ [Art]
 │    ├─ [UI]
 │    │    ├─ GUI
-│    │    ├─ TUI
-│    │    └─ CLI
+│    │    └─ TUI
 │    │
 │    ├─ [Drawing]
 │    │    ├─ Pixel_art
@@ -26,16 +25,14 @@ I am:
 │    │    ├─ Tileset
 │    │    └─ Background
 │    │
-│    └─ Modeling
+│    └─ [Web_design]
+│         ├─ HTML
+│         └─ CSS
 │
 ├─ [Programming]
 │    ├─ Unix_shell
 │    ├─ Python
-│    ├─ GDscript
-│    │
-│    └─ [Web]
-│         ├─ HTML
-│         └─ CSS
+│    └─ GDscript
 │
 └─ [Game_design]
      ├─ [Level_design]
@@ -49,6 +46,12 @@ I am:
      │
      └─ UX
 ```
+
+## Tools
+
+| Image editor | Motion graphics | Game engine | Text editor |
+|:-:|:-:|:-:|:-:|
+| [![GIMP](https://www.gimp.org/images/frontpage/wilber-big.png)](https://www.gimp.org/) | [![Blender](https://download.blender.org/branding/blender_logo.png)](https://www.blender.org/) | [![Godot](https://godotengine.org/themes/godotengine/assets/logo.svg)](https://godotengine.org) | [![Kakoune](https://kakoune.org/img/kakoune_logo_full.png)](https://kakoune.org/) |
 
 ## Socials
 [![Github: NNBnh](https://img.shields.io/github/followers/NNBnh?color=%2324292E&label=github%20NNBnh&logo=github&logoColor=%23FFFFFF&style=for-the-badge)](https://github.com/NNBnh)
