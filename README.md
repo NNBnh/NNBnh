@@ -2,14 +2,14 @@
 <p align="center">Dev that <i>SuperB</i></p>
 
 # About
-Hi, my name is **Nguyễn Nhật Anh** and i live in Việt Nam.
+Hi, my name is **Nguyễn Nhật Anh** and i live in Việt Nam 🇻🇳.
 
 I am:
-- an artist
-- a UI/UX designer
-- a sorfware developer
-- a web designer
-- and mainly, i am a **game developer**
+- an artist ✏
+- a UI/UX designer 🖼
+- a sorfware developer 💾
+- a web designer 📕
+- and mainly, i am a **game developer** 🎮
 
 ## Skill
 ```
