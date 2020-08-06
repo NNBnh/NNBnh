@@ -15,33 +15,40 @@ I am:
 ```
 [NNB's skill tree]
 ├─ [Art]
-│  ├─ [UI] (User interface)
-│  │  ├─ GUI (Graphical user interface)
-│  │  ├─ TUI (Text-based user interface)
-│  │  └─ CLI (Command-line interface)
-│  ├─ [Drawing]
-│  │  ├─ Pixel art
-│  │  ├─ ASCII art
-│  │  ├─ Tileset
-│  │  └─ Background
-│  └─ [Modeling]
-│     └─ Blender
+│    ├─ [UI] (User interface)
+│    │    ├─ GUI (Graphical user interface)
+│    │    ├─ TUI (Text-based user interface)
+│    │    └─ CLI (Command-line interface)
+│    │
+│    ├─ [Drawing]
+│    │    ├─ Pixel art
+│    │    ├─ ASCII art
+│    │    ├─ Tileset
+│    │    └─ Background
+│    │
+│    └─ [Modeling]
+│         └─ Blender
+│
 ├─ [Programming]
-│  ├─ Unix shell script
-│  ├─ Python
-│  ├─ GDscript
-│  └─ [Web]
-│     ├─ HTML
-│     └─ CSS
+│    ├─ Unix shell script
+│    ├─ Python
+│    ├─ GDscript
+│    │
+│    └─ [Web]
+│         ├─ HTML
+│         └─ CSS
+│
 └─ [Game design]
-   ├─ [Level/map design]
-   │  ├─ 2D platformer
-   │  ├─ Top down map
-   │  └─ 3D First-person environment
-   │─ UX (User experience)
-   └─ [Story writing]
-      ├─ Character building
-      └─ World building
+     ├─ [Level/map design]
+     │    ├─ 2D platformer
+     │    ├─ Top down map
+     │    └─ 3D First-person environment
+     │
+     ├─ [Story writing]
+     │    ├─ Character building
+     │    └─ World building
+     │
+     └─ UX (User experience)
 ```
 
 ## Socials
@@ -50,4 +57,4 @@ I am:
 [![Discord: NNB's workshop](https://img.shields.io/discord/740843363343007754?color=%236E84D2&label=discord%20NNB%27s%20workshop&logo=discord&logoColor=%23FFFFFF&style=for-the-badge)](https://discord.gg/vJ22XK)
 
 ## Projects
-Here is some of my projects:
+Here are some of my projects:
