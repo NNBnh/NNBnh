@@ -1,8 +1,10 @@
 <h1 align="center"><b>NNB</b></h1>
 <p align="center">Dev that <i>SuperB</i></p>
 
-# About
-Hi, my name is **Nguyễn Nhật Anh** and i live in **Việt Nam** 🇻🇳.
+## About
+Hi, my name is **Nguyễn Nhật Anh**
+
+and i live in **Việt Nam** 🇻🇳.
 
 I am:
 - an artist ✏
