@@ -1,4 +1,4 @@
-<h1 align="center"><b>NNB</b></h1>
+<h1 align="center"><b><i>NNB</i></b></h1>
 <p align="center">Dev that <i>SuperB</i></p>
 
 ## About
