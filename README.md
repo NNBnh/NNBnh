@@ -15,23 +15,28 @@ I am:
 
 ## Skills
 ```python
-[NNB's skill tree]         ╷
-├─ [Art]                   ├─ [Programming]
-│    ├─ [UI]               ┆    ├─ Unix_shell
-│    │    ├─ GUI           ╎    ├─ Python
-│    │    └─ TUI           │    └─ GDscript
-│    │                     │
-│    ├─ [Drawing]          └─ [Game_design]
-│    │    ├─ Pixel_art          ├─ [Level_design]
-│    │    ├─ ASCII_art          │    ├─ Platformer
-│    │    ├─ Tileset            │    ├─ Top_down
-│    │    └─ Background         │    └─ Environmental_storytelling
-│    │                          │
-│    └─ [Web_design]            ├─ [Story_writing]
-╎         ├─ HTML               │    ├─ Character_building
-┆         └─ CSS                │    └─ World_building
-┊                               │
-╵                               └─ UX
+#|    _  ___  _____ _            __    _ ____  __
+#|   / |/ / |/ / _ | )___   ___ / /__ (_) / / / /________ ___
+#|  /    /    / _  |/(_-<  (_-</  '_// / / / / __/ __/ -_) -_)
+#| /_/|_/_/|_/____/ /___/ /___/_/\_\/_/_/_/  \__/_/  \__/\__/
+ │                          ╷
+ ├─ [Art]                   ├─ [Programming]
+ │    ├─ [UI]               ┆    ├─ Unix_shell
+ │    │    ├─ GUI           ╎    ├─ Python
+ │    │    └─ TUI           │    └─ GDscript
+ │    │                     │
+ │    ├─ [Drawing]          └─ [Game_design]
+ │    │    ├─ Pixel_art          ├─ [Level_design]
+ │    │    ├─ ASCII_art          │    ├─ Platformer
+ │    │    ├─ Tileset            │    ├─ Top_down
+ │    │    └─ Background         │    └─ Environmental_storytelling
+ │    │                          │
+ │    └─ [Web_design]            ├─ [Story_writing]
+ ╎         ├─ HTML               │    ├─ Character_building
+ ┆         └─ CSS                │    └─ World_building
+ ┊                               │
+ ╵                               └─ UX
+
 ```
 
 ## Tools
