@@ -11,6 +11,8 @@ I am:
 - a web designer 📕
 - but mainly, i am a **game developer** 🎮
 
+![NNB's github stats](https://github-readme-stats.vercel.app/api?username=NNBnh&show_icons=true&title_color=FED06E&text_color=FCE8C3&icon_color=FED06E&bg_color=1C1B19)
+
 ## Skills
 ```python
 [NNB's skill tree]         ╷
