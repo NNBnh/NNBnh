@@ -45,30 +45,27 @@ I am:
 
 ### Art
 * Image editor:
-[![GIMP](https://img.shields.io/badge/gimp%20-%235C5543.svg?style=for-the-badge&logo=gimp&logoColor=%23FFFFFF)](https://www.gimp.org)
-[![KRITA](https://img.shields.io/badge/krita%20-%233BABFF.svg?style=for-the-badge&logo=krita&logoColor=%23FFFFFF)](https://krita.org)
-* Motion graphics:
-[![Blender](https://img.shields.io/badge/blender%20-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=%23FFFFFF)](https://www.blender.org)
+  * Primary: [![GIMP](https://img.shields.io/badge/gimp%20-%235C5543.svg?style=for-the-badge&logo=gimp&logoColor=%23FFFFFF)](https://www.gimp.org)
+  * Used in the pass: [![KRITA](https://img.shields.io/badge/krita%20-%233BABFF.svg?style=for-the-badge&logo=krita&logoColor=%23FFFFFF)](https://krita.org)
+* Motion graphics: [![Blender](https://img.shields.io/badge/blender%20-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=%23FFFFFF)](https://www.blender.org)
 
-![MARKDOWN](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=%23FFFFFF)
-![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=%23FFFFFF)
+[![MARKDOWN](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=%23FFFFFF)](https://pandoc.org)
+[![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=%23FFFFFF)](https://pandoc.org)
 
-![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=%23FFFFFF)
-![SASS](https://img.shields.io/badge/sass%20-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=%23FFFFFF)
+[![SASS](https://img.shields.io/badge/sass%20-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=%23FFFFFF)](https://sass-lang.com)
+[![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=%23FFFFFF)](https://sass-lang.com)
 
 ### Programming
-* Game engine:
-[![Godot](https://img.shields.io/badge/dogot%20-%23478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=%23FFFFFF)](https://godotengine.org)
+* Game engine: [![Godot](https://img.shields.io/badge/dogot%20-%23478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=%23FFFFFF)](https://godotengine.org)
 * Text editor:
-[![Kakoune](https://img.shields.io/badge/kakoune%20-%23F9765A.svg?style=for-the-badge&logo=kodi&logoColor=%23FFFFFF)](https://kakoune.org)
-[![Neovim](https://img.shields.io/badge/neovim%20-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=%23FFFFFF)](https://kakoune.org)
-[![Vim](https://img.shields.io/badge/vim%20-%23019733.svg?style=for-the-badge&logo=vim&logoColor=%23FFFFFF)](https://kakoune.org)
-[![Emacs](https://img.shields.io/badge/emacs%20-%237F5AB6.svg?style=for-the-badge&logo=ngu-emacs&logoColor=%23FFFFFF)](https://kakoune.org)
-[![VScode](https://img.shields.io/badge/vscode%20-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=%23FFFFFF)](https://kakoune.org)
+  * Primary: [![Kakoune](https://img.shields.io/badge/kakoune%20-%23F9765A.svg?style=for-the-badge&logo=kodi&logoColor=%23FFFFFF)](https://kakoune.org)
+  * Secondary: [![VScodium](https://img.shields.io/badge/vscodium%20-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=%23FFFFFF)](https://vscodium.com)
+  * Used in the pass: [![Neovim](https://img.shields.io/badge/neovim%20-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=%23FFFFFF)](https://neovim.io)
+[![Emacs](https://img.shields.io/badge/emacs%20-%237F5AB6.svg?style=for-the-badge&logo=ngu-emacs&logoColor=%23FFFFFF)](https://www.gnu.org/software/emacs)
 
-![UNIX SHELL](https://img.shields.io/badge/unix_shell%20-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PYTHON](https://img.shields.io/badge/python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=%23FFFFFF)
-![GDSCRIPT](https://img.shields.io/badge/gdscript%20-%23478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=%23FFFFFF)
+[![POSIX SHELL](https://img.shields.io/badge/posix_shell%20-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://en.wikipedia.org/wiki/POSIX)
+[![PYTHON](https://img.shields.io/badge/python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=%23FFFFFF)](https://www.python.org)
+[![GDSCRIPT](https://img.shields.io/badge/gdscript%20-%23478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=%23FFFFFF)](https://docs.godotengine.org/en/stable/getting_started/scripting/gdscript/gdscript_basics.html)
 
 ## Social
 [![Github: NNBnh](https://img.shields.io/github/followers/NNBnh?labelColor=%2324292E&color=%2324292E&label=github%20NNBnh&logo=github&logoColor=%23FFFFFF&style=for-the-badge)](https://github.com/NNBnh)
