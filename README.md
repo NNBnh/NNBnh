@@ -73,6 +73,7 @@ I am:
 [![PYTHON](https://img.shields.io/badge/python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=FFFFFF)](https://www.python.org)
 [![GDSCRIPT](https://img.shields.io/badge/gdscript%20-%23478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=FFFFFF)](https://docs.godotengine.org/en/stable/getting_started/scripting/gdscript/gdscript_basics.html)
 
+### Race
 * Operating system:
   * Primary: [![Void Linux](https://img.shields.io/badge/void_linux%20-%23478061.svg?style=for-the-badge&logo=linux&logoColor=FFFFFF)](https://voidlinux.org)
   * Secondary: [![Windows 9](https://img.shields.io/badge/windows_9%20-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=FFFFFF)](https://youtu.be/YQfoyzQjAPc)
@@ -83,12 +84,15 @@ I am:
 [![MX Linux](https://img.shields.io/badge/mx_linux%20-%23000000.svg?style=for-the-badge&logo=mx-linux&logoColor=FFFFFF)](https://mxlinux.org)
 [![Ubuntu](https://img.shields.io/badge/ubuntu%20-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=FFFFFF)]()
 [![KDE Plasma](https://img.shields.io/badge/kde_plasma%20-%231D99F3.svg?style=for-the-badge&logo=kde&logoColor=FFFFFF)](https://kde.org/plasma-desktop)
+###### You can take a look at my [`Đotfile`](https://github.com/NNBnh/dots)
+
+* Devices:
+  * Primary: ![Laptop](https://img.shields.io/badge/shitty_hp_laptop%20-%230096D6.svg?style=for-the-badge&logo=hp&logoColor=FFFFFF)
+  * Secondary: ![Phone](https://img.shields.io/badge/galaxy_note_5%20-%231428A0.svg?style=for-the-badge&logo=samsung-pay&logoColor=FFFFFF)
 
 ## Social
 [![Github: NNBnh](https://img.shields.io/github/followers/NNBnh?labelColor=24292E&color=24292E&label=github%20NNBnh&logo=github&logoColor=FFFFFF&style=for-the-badge)](https://github.com/NNBnh)
-
 [![Mastodon: @NNB@fosstodon.org](https://img.shields.io/mastodon/follow/255593?labelColor=3088D4&color=3088D4&domain=https%3A%2F%2Ffosstodon.org&label=mastodon%20%40NNB%20%40fosstodon.org&logo=mastodon&logoColor=FFFFFF&style=for-the-badge)](https://fosstodon.org/web/accounts/255593)
-
 [![Discord: NNB's workshop](https://img.shields.io/discord/740843363343007754?labelColor=6E84D2&color=6E84D2&label=discord%20NNB%27s%20workshop&logo=discord&logoColor=FFFFFF&style=for-the-badge)](https://discord.gg/vJ22XK)
 
 ## Projects
