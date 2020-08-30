@@ -62,7 +62,7 @@ I am:
 [![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=FFFFFF)](https://sass-lang.com)
 
 ### Programming
-* Game engine: [![Godot](https://img.shields.io/badge/dogot%20-%23478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=FFFFFF)](https://godotengine.org)
+* Game engine: [![Godot](https://img.shields.io/badge/godot%20-%23478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=FFFFFF)](https://godotengine.org)
 * Text editor:
   * Primary: [![Kakoune](https://img.shields.io/badge/kakoune%20-%23F9765A.svg?style=for-the-badge&logo=kodi&logoColor=FFFFFF)](https://kakoune.org)
   * Secondary: [![VScodium](https://img.shields.io/badge/vscodium%20-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=FFFFFF)](https://vscodium.com)
