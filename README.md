@@ -23,7 +23,7 @@ I am:
 #| /_/|_/_/|_/____/ /___/ /___/_/\_\/_/_/_/  \__/_/  \__/\__/
  │                          ╷
  ├─ [Art]                   ├─ [Programming]
- │    ├─ [UI]               ┆    ├─ Pure POSIX shell
+ │    ├─ [UI]               ┆    ├─ Pure POSIXshell
  │    │    ├─ GUI           ╎    ├─ Python
  │    │    └─ TUI           │    └─ Godot GDscript
  │    │                     │
@@ -46,12 +46,17 @@ I am:
 ### Art
 * Image editor:
   * Primary: [![GIMP](https://img.shields.io/badge/gimp%20-%235C5543.svg?style=for-the-badge&logo=gimp&logoColor=%23FFFFFF)](https://www.gimp.org)
-  * Used in the pass: [![KRITA](https://img.shields.io/badge/krita%20-%233BABFF.svg?style=for-the-badge&logo=krita&logoColor=%23FFFFFF)](https://krita.org)
+  * Secondary: [![Figma](https://img.shields.io/badge/figma%20-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=%23FFFFFF)](https://www.gimp.org)
+  * Used in the pass:
+[![Krita](https://img.shields.io/badge/krita%20-%233BABFF.svg?style=for-the-badge&logo=krita&logoColor=%23FFFFFF)](https://krita.org)
+[![Affinity Photo](https://img.shields.io/badge/affinity_photo%20-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=%23FFFFFF)](https://affinity.serif.com/en-gb/photo)
+[![Photoshop](https://img.shields.io/badge/photoshop%20-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=%23FFFFFF)](https://alternativeto.net/software/adobe-photoshop)
+[![Pixlr](https://img.shields.io/badge/pixlr%20-%23166969.svg?style=for-the-badge&logo=canonical&logoColor=%23FFFFFF)](https://pixlr.com/e)
 * Motion graphics: [![Blender](https://img.shields.io/badge/blender%20-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=%23FFFFFF)](https://www.blender.org)
-
+* Markup languages:
 [![MARKDOWN](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=%23FFFFFF)](https://pandoc.org)
 [![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=%23FFFFFF)](https://pandoc.org)
-
+* Style sheet languages:
 [![SASS](https://img.shields.io/badge/sass%20-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=%23FFFFFF)](https://sass-lang.com)
 [![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=%23FFFFFF)](https://sass-lang.com)
 
@@ -62,10 +67,21 @@ I am:
   * Secondary: [![VScodium](https://img.shields.io/badge/vscodium%20-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=%23FFFFFF)](https://vscodium.com)
   * Used in the pass: [![Neovim](https://img.shields.io/badge/neovim%20-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=%23FFFFFF)](https://neovim.io)
 [![Emacs](https://img.shields.io/badge/emacs%20-%237F5AB6.svg?style=for-the-badge&logo=ngu-emacs&logoColor=%23FFFFFF)](https://www.gnu.org/software/emacs)
-
+* Programming languages:
 [![POSIX SHELL](https://img.shields.io/badge/posix_shell%20-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://en.wikipedia.org/wiki/POSIX)
 [![PYTHON](https://img.shields.io/badge/python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=%23FFFFFF)](https://www.python.org)
 [![GDSCRIPT](https://img.shields.io/badge/gdscript%20-%23478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=%23FFFFFF)](https://docs.godotengine.org/en/stable/getting_started/scripting/gdscript/gdscript_basics.html)
+
+* Operating system:
+  * Primary: [![Void Linux](https://img.shields.io/badge/void_linux%20-%23478061.svg?style=for-the-badge&logo=linux&logoColor=%23FFFFFF)](https://voidlinux.org)
+  * Secondary: [![Windows 9](https://img.shields.io/badge/windows_9%20-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=%23FFFFFF)](https://youtu.be/YQfoyzQjAPc)
+  * Used in the pass:
+[![Arch Linux](https://img.shields.io/badge/arch_linux%20-%231793D1.svg?style=for-the-badge&logo=arch-linux&logoColor=%23FFFFFF)](https://www.archlinux.org)
+[![Manjaro](https://img.shields.io/badge/manjaro%20-%2335BF5C.svg?style=for-the-badge&logo=manjaro&logoColor=%23FFFFFF)](https://manjaro.org)
+[![Debian](https://img.shields.io/badge/debian%20-%23A81D33.svg?style=for-the-badge&logo=debian&logoColor=%23FFFFFF)](https://www.debian.org)
+[![MX Linux](https://img.shields.io/badge/mx_linux%20-%23000000.svg?style=for-the-badge&logo=mx-linux&logoColor=%23FFFFFF)](https://mxlinux.org)
+[![Ubuntu](https://img.shields.io/badge/ubuntu%20-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=%23FFFFFF)]()
+[![KDE Plasma](https://img.shields.io/badge/kde_plasma%20-%231D99F3.svg?style=for-the-badge&logo=kde&logoColor=%23FFFFFF)](https://kde.org/plasma-desktop)
 
 ## Social
 [![Github: NNBnh](https://img.shields.io/github/followers/NNBnh?labelColor=%2324292E&color=%2324292E&label=github%20NNBnh&logo=github&logoColor=%23FFFFFF&style=for-the-badge)](https://github.com/NNBnh)
