@@ -1,6 +1,6 @@
 <h1 align="center"><b><i>NNB</i></b></h1>
 <p align="center">Dev that <i>SuperB</i></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=NNBnh&show_icons=true&title_color=FED06E&text_color=FCE8C3&icon_color=FED06E&bg_color=1C1B19"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=NNBnh&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818"></p>
 <p align="center"><img src="https://img.shields.io/badge/open_source%20-%2335BF5C.svg?style=for-the-badge&logo=open-source-initiative&logoColor=FFFFFF" alt="Open source initiative"> <img src="https://img.shields.io/badge/vietnam%20-%23F75341.svg?style=for-the-badge&logo=reverbnation&logoColor=FED06E" alt="Vietnamese initiative"></p>
  
 ## About
