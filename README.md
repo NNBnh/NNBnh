@@ -68,7 +68,7 @@ I am:
   * Used in the pass: [![Neovim](https://img.shields.io/badge/neovim%20-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=FFFFFF)](https://neovim.io)
 [![Emacs](https://img.shields.io/badge/emacs%20-%237F5AB6.svg?style=for-the-badge&logo=gnu-emacs&logoColor=FFFFFF)](https://www.gnu.org/software/emacs)
 * Programming languages:
-[![POSIX SHELL](https://img.shields.io/badge/posix_shell%20-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://en.wikipedia.org/wiki/POSIX)
+[![POSIX SHELL](https://img.shields.io/badge/posix_shell%20-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/dylanaraps/pure-sh-bible)
 [![PYTHON](https://img.shields.io/badge/python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=FFFFFF)](https://www.python.org)
 [![GDSCRIPT](https://img.shields.io/badge/gdscript%20-%23478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=FFFFFF)](https://docs.godotengine.org/en/stable/getting_started/scripting/gdscript/gdscript_basics.html)
 
