@@ -24,7 +24,7 @@ I am:
  │                          ╷
  ├─ [Art]                   ├─ [Programming]
  │    ├─ [UI]               ┆    ├─ Pure POSIXshell
- │    │    ├─ GUI           ╎    ├─ Python
+ │    │    ├─ GUI           │    ├─ Python
  │    │    └─ TUI           │    └─ Godot GDscript
  │    │                     │
  │    ├─ [Drawing]          └─ [Game_design]
@@ -34,9 +34,9 @@ I am:
  │    │    └─ Background         │    └─ Environmental_storytelling
  │    │                          │
  │    └─ [Web_design]            ├─ [Story_writing]
- ╎         ├─ Markdown           │    ├─ Character_building
+ │         ├─ Markdown           │    ├─ Character_building
  ┆         └─ HTML + SASS        │    └─ World_building
- ┊                               │
+ ╵                               │
  ╵                               └─ UX
 
 ```
