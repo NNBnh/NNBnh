@@ -53,7 +53,6 @@ I am:
 [![Krita](https://img.shields.io/badge/krita%20-%233BABFF.svg?style=for-the-badge&logo=krita&logoColor=FFFFFF)](https://krita.org)
 [![Affinity Photo](https://img.shields.io/badge/affinity_photo%20-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=FFFFFF)](https://affinity.serif.com/en-gb/photo)
 [![Photoshop](https://img.shields.io/badge/photoshop%20-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=FFFFFF)](https://alternativeto.net/software/adobe-photoshop)
-[![Pixlr](https://img.shields.io/badge/pixlr%20-%23166969.svg?style=for-the-badge&logo=canonical&logoColor=FFFFFF)](https://pixlr.com/e)
 
 [![POSIX SHELL](https://img.shields.io/badge/posix_shell%20-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/dylanaraps/pure-sh-bible)
 [![PYTHON](https://img.shields.io/badge/python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=FFFFFF)](https://www.python.org)
@@ -68,7 +67,6 @@ I am:
 [![Debian](https://img.shields.io/badge/debian%20-%23A81D33.svg?style=for-the-badge&logo=debian&logoColor=FFFFFF)](https://www.debian.org)
 [![MX Linux](https://img.shields.io/badge/mx_linux%20-%23000000.svg?style=for-the-badge&logo=mx-linux&logoColor=FFFFFF)](https://mxlinux.org)
 [![Ubuntu](https://img.shields.io/badge/ubuntu%20-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=FFFFFF)]()
-[![KDE Plasma](https://img.shields.io/badge/kde_plasma%20-%231D99F3.svg?style=for-the-badge&logo=kde&logoColor=FFFFFF)](https://kde.org/plasma-desktop)
 [![Windows 9](https://img.shields.io/badge/windows_9%20-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=FFFFFF)](https://youtu.be/YQfoyzQjAPc)
 
 ![Laptop](https://img.shields.io/badge/shitty_hp_laptop%20-%230096D6.svg?style=for-the-badge&logo=hp&logoColor=FFFFFF)
