@@ -1,4 +1,4 @@
-<h1 align="center"><b><i>NNB</i></b></h1>
+<h1 align="center"><i>NNB</i></h1>
 <p align="center">Dev that <i>SuperB</i></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=NNBnh&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818"></p>
 <p align="center"><img src="https://img.shields.io/badge/open_source%20-%2335BF5C.svg?style=for-the-badge&logo=open-source-initiative&logoColor=FFFFFF" alt="Open source initiative"> <img src="https://img.shields.io/badge/posix_shell%20-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="POSIX SHELL"> <img src="https://img.shields.io/badge/godot%20-%23478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=FFFFFF" alt="Godot"> <img src="https://img.shields.io/badge/kakoune%20-%23F9765A.svg?style=for-the-badge&logo=kodi&logoColor=FFFFFF" alt="Kakoune"> <img src="https://img.shields.io/badge/void_linux%20-%23478061.svg?style=for-the-badge&logo=linux&logoColor=FFFFFF" alt="Void Linux"> <img src="https://img.shields.io/badge/vietnam%20-%23F75341.svg?style=for-the-badge&logo=reverbnation&logoColor=FED06E" alt="Vietnamese initiative"></p>
@@ -65,7 +65,6 @@ I am:
 [![Arch Linux](https://img.shields.io/badge/arch_linux%20-%231793D1.svg?style=for-the-badge&logo=arch-linux&logoColor=FFFFFF)](https://www.archlinux.org)
 [![Manjaro](https://img.shields.io/badge/manjaro%20-%2335BF5C.svg?style=for-the-badge&logo=manjaro&logoColor=FFFFFF)](https://manjaro.org)
 [![Debian](https://img.shields.io/badge/debian%20-%23A81D33.svg?style=for-the-badge&logo=debian&logoColor=FFFFFF)](https://www.debian.org)
-[![MX Linux](https://img.shields.io/badge/mx_linux%20-%23000000.svg?style=for-the-badge&logo=mx-linux&logoColor=FFFFFF)](https://mxlinux.org)
 [![Ubuntu](https://img.shields.io/badge/ubuntu%20-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=FFFFFF)]()
 [![Windows 9](https://img.shields.io/badge/windows_9%20-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=FFFFFF)](https://youtu.be/YQfoyzQjAPc)
 
