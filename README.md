@@ -17,11 +17,11 @@ I am:
 
 ## Skills
 ```python
-#|    _  ___  _____ _            __    _ ____  __
-#|   / |/ / |/ / _ | )___   ___ / /__ (_) / / / /________ ___
-#|  /    /    / _  |/(_-<  (_-</  '_// / / / / __/ __/ -_) -_)
-#| /_/|_/_/|_/____/ /___/ /___/_/\_\/_/_/_/  \__/_/  \__/\__/
- │                          ╷
+#|    _  ___  _____ _               __    _ ____     __
+#|   / |/ / |/ / _ | )___      ___ / /__ (_) / /    / /________ ___
+#|  /    /    / _  |/(_-<     (_-</  '_// / / /    / __/ __/ -_) -_)
+#| /_/|_/_/|_/____/ /___/    /___/_/\_\/_/_/_/     \__/_/  \__/\__/
+ │
  ├─ [Art]                   ├─ [Programming]
  │    ├─ [UI]               ┆    ├─ Pure POSIXshell
  │    │    ├─ GUI           │    ├─ Python
@@ -36,8 +36,8 @@ I am:
  │    └─ [Web_design]            ├─ [Story_writing]
  │         ├─ Markdown           │    ├─ Character_building
  ┆         └─ HTML + SASS        │    └─ World_building
- ╵                               │
- ╵                               └─ UX
+                                 │
+ ┆                               └─ UX
 
 ```
 
@@ -65,11 +65,8 @@ I am:
 [![Arch Linux](https://img.shields.io/badge/arch_linux%20-%231793D1.svg?style=for-the-badge&logo=arch-linux&logoColor=FFFFFF)](https://www.archlinux.org)
 [![Manjaro](https://img.shields.io/badge/manjaro%20-%2335BF5C.svg?style=for-the-badge&logo=manjaro&logoColor=FFFFFF)](https://manjaro.org)
 [![Debian](https://img.shields.io/badge/debian%20-%23A81D33.svg?style=for-the-badge&logo=debian&logoColor=FFFFFF)](https://www.debian.org)
-[![Ubuntu](https://img.shields.io/badge/ubuntu%20-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=FFFFFF)]()
+[![Ubuntu](https://img.shields.io/badge/ubuntu%20-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=FFFFFF)](https://ubuntu.com)
 [![Windows 9](https://img.shields.io/badge/windows_9%20-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=FFFFFF)](https://www.microsoft.com/en-gb/software-download/windows10)
-
-![Laptop](https://img.shields.io/badge/shitty_hp_laptop%20-%230096D6.svg?style=for-the-badge&logo=hp&logoColor=FFFFFF)
-![Phone](https://img.shields.io/badge/galaxy_note_5%20-%231428A0.svg?style=for-the-badge&logo=samsung-pay&logoColor=FFFFFF)
 
 ## Race
 You can take a look at my [`Đotfile`](https://github.com/NNBnh/dots)
