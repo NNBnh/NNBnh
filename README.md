@@ -9,11 +9,11 @@ Hi, my name is **Nguyễn Nhật Anh**
 and i live in **Việt Nam** 🇻🇳.
 
 I am:
-- an artist
-- a UI/UX designer
-- a sorfware developer
-- a web designer
-- but mainly, i am a **game developer**
+- An artist
+- An UI/UX designer
+- A sorfware developer
+- A web designer
+- But mainly, I'm a **game developer**
 
 ## Skills
 ```python
