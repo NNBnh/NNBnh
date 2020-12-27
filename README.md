@@ -9,11 +9,11 @@ Hi, my name is **Nguyễn Nhật Anh**
 and i live in **Việt Nam** 🇻🇳.
 
 I am:
-- An artist
-- An UI/UX designer
-- A sorfware developer
-- A web designer
-- But mainly, I'm a **game developer**
+- :art: An artist
+- :game_die: An UI/UX designer
+- :computer: A sorfware developer
+- :earth_asia: A web designer
+- :video_game: But mainly, I'm a **game developer**
 
 ## Skills
 ```python
@@ -68,8 +68,8 @@ I am:
 [![Ubuntu](https://img.shields.io/badge/ubuntu%20-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=FFFFFF)](https://ubuntu.com)
 [![Windows 9](https://img.shields.io/badge/windows_9%20-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=FFFFFF)](https://www.microsoft.com/en-gb/software-download/windows10)
 
-## Race
-You can take a look at my [`Đotfile`](https://github.com/NNBnh/dots)
+## Rice
+:open_file_folder: You can take a look at my [`Đotfile`](https://github.com/NNBnh/dots)
 
 ## Social
 [![Github: NNBnh](https://img.shields.io/github/followers/NNBnh?labelColor=24292E&color=24292E&label=github%20NNBnh&logo=github&logoColor=FFFFFF&style=for-the-badge)](https://github.com/NNBnh)
