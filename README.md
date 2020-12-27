@@ -69,7 +69,7 @@ I am:
 [![Windows 9](https://img.shields.io/badge/windows_9%20-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=FFFFFF)](https://www.microsoft.com/en-gb/software-download/windows10)
 
 ## Rice
-:open_file_folder: You can take a look at my [`Đotfile`](https://github.com/NNBnh/dots)
+You can take a look at my [`Đotfile`](https://github.com/NNBnh/dots) :open_file_folder:
 
 ## Social
 [![Github: NNBnh](https://img.shields.io/github/followers/NNBnh?labelColor=24292E&color=24292E&label=github%20NNBnh&logo=github&logoColor=FFFFFF&style=for-the-badge)](https://github.com/NNBnh)
