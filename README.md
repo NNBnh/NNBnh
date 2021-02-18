@@ -18,7 +18,7 @@ I am:
 ## Social
 [![Github: NNBnh](https://img.shields.io/github/followers/NNBnh?labelColor=24292E&color=24292E&label=github%20NNBnh&logo=github&logoColor=FFFFFF&style=for-the-badge)](https://github.com/NNBnh)
 [![Mastodon: @NNB@fosstodon.org](https://img.shields.io/mastodon/follow/255593?labelColor=3088D4&color=3088D4&domain=https%3A%2F%2Ffosstodon.org&label=mastodon%20%40NNB%20%40fosstodon.org&logo=mastodon&logoColor=FFFFFF&style=for-the-badge)](https://fosstodon.org/web/accounts/255593)
-[![Discord: NNB's workshop](https://img.shields.io/discord/740843363343007754?labelColor=6E84D2&color=6E84D2&label=discord%20NNB%27s%20workshop&logo=discord&logoColor=FFFFFF&style=for-the-badge)](https://discord.gg/vJ22XK)
+[![Discord: NNB's workshop](https://img.shields.io/discord/740843363343007754?labelColor=6E84D2&color=6E84D2&label=discord%20NNB%27s%20workshop&logo=discord&logoColor=FFFFFF&style=for-the-badge)](https://discord.gg/H5r5GqUsSm)
 [![Buy Me a Snack (Buy Me a Coffee)](https://img.shields.io/badge/buy_me_a_coffee%20-%23F7CA88.svg?logo=buy-me-a-coffee&logoColor=333333&style=for-the-badge)](https://www.buymeacoffee.com/nnbnh)
 
 ## Skills
