@@ -72,7 +72,7 @@ I am:
 [![Manjaro](https://img.shields.io/badge/manjaro%20-%2335BF5C.svg?style=for-the-badge&logo=manjaro&logoColor=FFFFFF)](https://manjaro.org)
 [![Debian](https://img.shields.io/badge/debian%20-%23A81D33.svg?style=for-the-badge&logo=debian&logoColor=FFFFFF)](https://www.debian.org)
 [![Ubuntu](https://img.shields.io/badge/ubuntu%20-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=FFFFFF)](https://ubuntu.com)
-[![Windows 9](https://img.shields.io/badge/windows_9%20-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=FFFFFF)](https://www.microsoft.com/en-gb/software-download/windows10)
+[![Windows](https://img.shields.io/badge/windows%20-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=FFFFFF)](https://www.microsoft.com/en-gb/software-download/windows10)
 
 ## Rice
 [![Đotfiles](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=dots&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/dots)
