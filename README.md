@@ -9,7 +9,7 @@ Hi, my name is **Nguyễn Nhật Anh**. I am:
 - 🎨 An artist
 - 🎲 An UI/UX designer
 - 💻 A sorfware developer
-- 🌏 A web designer
+- 🌏 A web technology enthusiasm
 - 🎮 But mainly, I'm a **game developer**
 
 ## 🌏 Social
