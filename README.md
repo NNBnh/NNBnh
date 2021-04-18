@@ -4,9 +4,8 @@
 <p align="center"><img src="https://img.shields.io/badge/open_source%20-%2335BF5C.svg?style=for-the-badge&logo=open-source-initiative&logoColor=FFFFFF" alt="Open source initiative"> <img src="https://img.shields.io/badge/posix_shell%20-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="POSIX SHELL"> <img src="https://img.shields.io/badge/godot%20-%23478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=FFFFFF" alt="Godot"> <img src="https://img.shields.io/badge/kakoune%20-%23F9765A.svg?style=for-the-badge&logo=kodi&logoColor=FFFFFF" alt="Kakoune"> <img src="https://img.shields.io/badge/void_linux%20-%23478061.svg?style=for-the-badge&logo=linux&logoColor=FFFFFF" alt="Void Linux"> <img src="https://img.shields.io/badge/vietnam%20-%23F75341.svg?style=for-the-badge&logo=reverbnation&logoColor=FED06E" alt="Vietnamese initiative"></p>
 
 ## 💡 About
-Hi, my name is **Nguyễn Nhật Anh** `@` **Việt Nam** 🇻🇳.
-
-I am:
+Hi, my name is **Nguyễn Nhật Anh**. I am:
+- 🇻🇳 A freshman born and grew up in Hà Nội.
 - 🎨 An artist
 - 🎲 An UI/UX designer
 - 💻 A sorfware developer
@@ -46,6 +45,8 @@ I am:
 ```
 
 ## 🧰 Tools
+Here is a list of tools that I have experience with:
+
 [![Godot](https://img.shields.io/badge/godot%20-%23478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=FFFFFF)](https://godotengine.org)
 [![Kakoune](https://img.shields.io/badge/kakoune%20-%23F9765A.svg?style=for-the-badge&logo=kodi&logoColor=FFFFFF)](https://kakoune.org)
 [![VScodium](https://img.shields.io/badge/vscodium%20-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=FFFFFF)](https://vscodium.com)
@@ -58,12 +59,11 @@ I am:
 [![Affinity Photo](https://img.shields.io/badge/affinity_photo%20-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=FFFFFF)](https://affinity.serif.com/en-gb/photo)
 [![Photoshop](https://img.shields.io/badge/photoshop%20-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=FFFFFF)](https://alternativeto.net/software/adobe-photoshop)
 
-[![POSIX SHELL](https://img.shields.io/badge/posix_shell%20-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/dylanaraps/pure-sh-bible)
+[![Portable Shell](https://img.shields.io/badge/posix_shell%20-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/dylanaraps/pure-sh-bible)
 [![PYTHON](https://img.shields.io/badge/python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=FFFFFF)](https://www.python.org)
 [![MARKDOWN](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=FFFFFF)](https://pandoc.org)
 [![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=FFFFFF)](https://pandoc.org)
 [![SASS](https://img.shields.io/badge/sass%20-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=FFFFFF)](https://sass-lang.com)
-[![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=FFFFFF)](https://sass-lang.com)
 
 [![Void Linux](https://img.shields.io/badge/void_linux%20-%23478061.svg?style=for-the-badge&logo=linux&logoColor=FFFFFF)](https://voidlinux.org)
 [![Arch Linux](https://img.shields.io/badge/arch_linux%20-%231793D1.svg?style=for-the-badge&logo=arch-linux&logoColor=FFFFFF)](https://www.archlinux.org)
@@ -92,7 +92,7 @@ Here are some of my projects:
 |[![SuperB MK](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=mk&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/mk)|[![SuperB HR](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=hr&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/hr)|
 |[![Sed collections](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=sed-collections&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/sed-collections)||
 
-### 🌈 BUI
+### 🌈 BUI (WIP)
 |Main|Side|
 |----|----|
 |[![BUI](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bui&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/bui)|[![BUI.kak](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bui.kak&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/bui.kak)|
