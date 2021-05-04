@@ -73,24 +73,46 @@ Here is a list of tools that i have experience with:
 [![Windows](https://img.shields.io/badge/windows%20-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=FFFFFF)](https://www.microsoft.com/en-gb/software-download/windows10)
 
 ## 🎀 Rice
-[![Đotfiles](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=dots&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/dots)
-
-[![Bmono](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bmono&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/bmono)
-
-[![Wallpaper collections](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=wallpaper-collections&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/wallpaper-collections)
+<table style="width:100%">
+  <tr>
+    <th rowspan="3"><a href="https://github.com/NNBnh/dots"><img src="https://user-images.githubusercontent.com/43980777/108480424-85941700-72c9-11eb-8380-89ddb5202607.png"></a></th>
+    <th><a href="https://github.com/NNBnh/dots"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=dots&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818"></a></th>
+  </tr>
+  <tr>
+    <th><a href="https://github.com/NNBnh/bmono"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bmono&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818"></a></th>
+  </tr>
+  <tr>
+    <th><a href="https://github.com/NNBnh/wallpaper-collections"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=wallpaper-collections&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818"></a></th>
+  </tr>
+</table>
 
 ## ✨ Projects
 Here are some of my projects:
 
+### 🅱️ SuperB bootstrap
+<table style="width:100%">
+  <tr>
+    <th colspan="2"><a href="https://github.com/NNBnh/superb-bootstrap"><img src="https://user-images.githubusercontent.com/43980777/109499307-49ca3000-7ac7-11eb-9f66-3a2c8f5e90b4.png"></a></th>
+  </tr>
+  <tr>
+    <th><a href="https://github.com/NNBnh/superb-bootstrap"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=superb-bootstrap&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818"></a></td>
+    <th><a href="https://github.com/NNBnh/bsymlink"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bsymlink&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818"></a></td>
+  </tr>
+</table>
+
 ### ⌨️ Utilities
 |Main|Side|
 |----|----|
-|[![BuperB bootstrap](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=superb-bootstrap&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/superb-bootstrap)|[![Bsymlink](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bsymlink&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/bsymlink)|
-|[![Bfetch](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bfetch&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/bfetch)|[![Textart collections](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=textart-collections&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/textart-collections)|
 |[![Terminal explorer](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=terminal-explorer&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/terminal-explorer)|[![Clipb](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=clipb&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/clipb)|
 |[![Coderun](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=coderun&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/coderun)|[![Coderun.kak](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=coderun.kak&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/coderun.kak)|
 |[![SuperB MK](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=mk&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/mk)|[![SuperB HR](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=hr&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/hr)|
 |[![Sed collections](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=sed-collections&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/sed-collections)||
+
+### 📺 Info-mono
+|Main|Side|
+|----|----|
+|[![Bfetch](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bfetch&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/bfetch)|[![Textart collections](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=textart-collections&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/textart-collections)|
+|[![Path shortener](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=pathshortener&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/pathshortener)|[![Status2signal](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=status2signal&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/status2signal)|
 
 ### 🌈 BUI (WIP)
 |Main|Side|
