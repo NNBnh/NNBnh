@@ -30,19 +30,19 @@ Hi, my name is **Nguyễn Nhật Anh**. I am:
  │
  ├─ [Art]                   ├─ [Programming]
  │    ├─ [UI]               ┆    ├─ Portable POSIXshell
- │    │    ├─ GUI           │    ├─ Python
- │    │    └─ TUI           │    └─ Godot GDscript
- │    │                     │
- │    ├─ [Drawing]          └─ [Game_design]
- │    │    ├─ Pixel_art          ├─ [Level_design]
- │    │    ├─ ASCII_art          │    ├─ Platformer
- │    │    ├─ Tileset            │    ├─ Top_down
- │    │    └─ Background         │    └─ Environmental_storytelling
- │    │                          │
- │    └─ [Web_design]            ├─ [Story_writing]
- │         ├─ Markdown           │    ├─ Character_building
- ┆         └─ HTML + SASS        │    └─ World_building
-                                 │
+ │    │    ├─ HUB           │    ├─ Python
+ │    │    ├─ GUI           │    └─ Godot GDscript
+ │    │    └─ TUI           │
+ │    │                     └─ [Game_design]
+ │    ├─ [Drawing]               ├─ [Level_design]
+ │    │    ├─ Pixel_art          │    ├─ Platformer
+ │    │    ├─ ASCII_art          │    ├─ Top_down
+ │    │    ├─ Tileset            │    └─ Environmental_storytelling
+ │    │    └─ Background         │
+ │    │                          ├─ [Story_writing]
+ │    └─ [Web_design]            │    ├─ Character_building
+ ┆         ├─ Markdown           │    └─ World_building
+           └─ HTML + SASS        │
  ┆                               └─ UX
 
 ```
@@ -75,38 +75,38 @@ Here is a list of tools that i have experience with:
 [![Ubuntu](https://img.shields.io/badge/ubuntu%20-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=FFFFFF)](https://ubuntu.com)
 [![Windows](https://img.shields.io/badge/windows%20-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=FFFFFF)](https://www.microsoft.com/en-gb/software-download/windows10)
 
-
-## 🎀 Rice
-<details>
-  <summary></summary>
-
-  <a href="https://github.com/NNBnh/dots"><img width="100%" src="https://user-images.githubusercontent.com/43980777/108480424-85941700-72c9-11eb-8380-89ddb5202607.png"></a>
-
-  | | |
-  |-|-|
-  |[![Dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=dots&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/dots)|[![Wallpaper collections](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=wallpaper-collections&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/wallpaper-collections)|
-  |[![Superb ST](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=superbst&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/superbst)|[![Bmono](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bmono&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/bmono)|
-
-  ---
-</details>
-
-## 🖼️ Art
-<details>
-  <summary></summary>
-
-  [![FlappyChim's assets](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=flappybirdart&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/flappybirdart)
-
-  ---
-</details>
-
 ## ✨ Projects
 Here are some of my projects:
 
 <details>
-  <summary>⌨️ Utilities</summary>
+  <summary>🅱️ SuperB Bootstrap</summary>
 
-  | | |
-  |-|-|
+  <a href="https://github.com/NNBnh/superb-bootstrap"><img width="100%" src="https://user-images.githubusercontent.com/43980777/109499307-49ca3000-7ac7-11eb-9f66-3a2c8f5e90b4.png"></a>
+
+  |   |   |
+  |:-:|:-:|
+  |[![Superb Bootstrap](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=superb-bootstrap&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/superb-bootstrap)|[![Bsymlink](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bsymlink&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/bsymlink)|
+
+  ---
+</details>
+
+<details>
+  <summary>🌈 BUI <code>(WIP)</code></summary>
+
+  |   |   |
+  |:-:|:-:|
+  |[![BUI](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bui&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/bui)|[![BUI.kak](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bui.kak&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/bui.kak)|
+  |[![BUI appearance](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bui-appearance&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/bui-appearance)|[![BUI terminal](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bui-terminal&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/bui-terminal)|
+  |[![BT](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bt&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/bt)||
+
+  ---
+</details>
+
+<details>
+  <summary>⌨️ Small utilities</summary>
+
+  |   |   |
+  |:-:|:-:|
   |[![Coderun](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=coderun&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/coderun)|[![Coderun.kak](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=coderun.kak&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/coderun.kak)|
   |[![Clipb](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=clipb&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/clipb)|[![Clipb.kak](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=clipb.kak&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/clipb.kak)|
   |[![SuperB MK](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=mk&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/mk)|[![SuperB HR](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=hr&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/hr)|
@@ -116,26 +116,26 @@ Here are some of my projects:
   ---
 </details>
 
+## 🖼️ Art
+Here are some of projects which I have been involved in graphic design:
+
 <details>
-  <summary>🅱️ SuperB Bootstrap</summary>
 
-  <a href="https://github.com/NNBnh/superb-bootstrap"><img width="100%" src="https://user-images.githubusercontent.com/43980777/109499307-49ca3000-7ac7-11eb-9f66-3a2c8f5e90b4.png"></a>
-
-  | | |
-  |-|-|
-  |[![Superb Bootstrap](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=superb-bootstrap&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/superb-bootstrap)|[![Bsymlink](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bsymlink&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/bsymlink)|
+  |   |   |
+  |:-:|:-:|
+  |[![FlappyChim's assets](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=flappybirdart&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/flappybirdart)|[![Trophy](https://github.com/NNBnh/flappybirdart/blob/main/up/trophy.png)](https://github.com/NNBnh/flappybirdart/blob/main/trophy.png)|
 
   ---
 </details>
 
+## 🎀 OS rice
+Improving my desktop design and workflow is one of my favorite hobby, here are my [`Đotfiles`](https://github.com/NNBnh/dots) as well as my other resources:
+
 <details>
-  <summary>🌈 BUI (WIP)</summary>
+  <a href="https://github.com/NNBnh/dots"><img width="100%" src="https://user-images.githubusercontent.com/43980777/108480424-85941700-72c9-11eb-8380-89ddb5202607.png"></a>
 
-  | | |
-  |-|-|
-  |[![BUI](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bui&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/bui)|[![BUI.kak](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bui.kak&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/bui.kak)|
-  |[![BUI appearance](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bui-appearance&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/bui-appearance)|[![BUI terminal](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bui-terminal&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/bui-terminal)|
-  |[![BT](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bt&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/bt)||
-
-  ---
+  |   |   |
+  |:-:|:-:|
+  |[![Dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=dots&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/dots)|[![Wallpaper collections](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=wallpaper-collections&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/wallpaper-collections)|
+  |[![SuperB ST](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=superbst&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/superbst)|[![Bmono](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bmono&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/bmono)|
 </details>
