@@ -105,15 +105,9 @@ Here are some of my projects:
 |[![Bfetch](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bfetch&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/bfetch)|[![Textart collections](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=textart-collections&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/textart-collections)|
 
 ## 🅱️ SuperB bootstrap
-<table style="width:100%">
-  <tr>
-    <th colspan="2"><a href="https://github.com/NNBnh/superb-bootstrap"><img src="https://user-images.githubusercontent.com/43980777/109499307-49ca3000-7ac7-11eb-9f66-3a2c8f5e90b4.png"></a></th>
-  </tr>
-  <tr>
-    <th><a href="https://github.com/NNBnh/superb-bootstrap"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=superb-bootstrap&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818"></a></td>
-    <th><a href="https://github.com/NNBnh/bsymlink"><img src="https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bsymlink&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818"></a></td>
-  </tr>
-</table>
+|    |    |
+|----|----|
+|[![Superb Bootstrap](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=superb-bootstrap&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/superb-bootstrap)|[![Bsymlink](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bsymlink&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/bsymlink)|
 
 ## 🌈 BUI (WIP)
 |    |    |
