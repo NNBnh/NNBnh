@@ -5,7 +5,7 @@
 
 ## 💡 About
 Hi, my name is **Nguyễn Nhật Anh**. I am:
-- 🇻🇳 A freshman born and grew up in Hà Nội.
+- 🇻🇳 A freshman born and grew up in Hà Nội
 - 🎨 An artist
 - 🎲 An UI/UX designer
 - 💻 A sorfware developer
