@@ -1,6 +1,7 @@
 <h1 align="center"><i>NNB</i></h1>
 <p align="center">Dev that <i>SuperB</i></p>
 <p align="center"><a href="https://github.com/NNBnh"><img src="https://github-readme-stats.vercel.app/api?username=NNBnh&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818"></a></p>
+<p align="center"><a href="https://github.com/NNBnh"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NNBnh&currStreakLabel=F7CA88&sideLabels=F7CA88&currStreakNum=F8F8F8&sideNums=F8F8F8&dates=F8F8F8&ring=F7CA88&fire=F7CA88&stroke=585858&background=181818"></a></p>
 <p align="center"> <a href="https://opensource.org"><img src="https://img.shields.io/badge/open_source%20-%2335BF5C.svg?style=for-the-badge&logo=open-source-initiative&logoColor=FFFFFF" alt="Open source initiative"></a> <a href="https://godotengine.org"><img src="https://img.shields.io/badge/godot%20-%23478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=FFFFFF" alt="Godot"></a> <a href="https://kakoune.org"><img src="https://img.shields.io/badge/kakoune%20-%23F9765A.svg?style=for-the-badge&logo=kodi&logoColor=FFFFFF" alt="Kakoune"></a> <a href="https://voidlinux.org"><img src="https://img.shields.io/badge/void_linux%20-%23478061.svg?style=for-the-badge&logo=linux&logoColor=FFFFFF" alt="Void Linux"></a> <a href="https://en.wikipedia.org/wiki/Vietnam#Culture"><img src="https://img.shields.io/badge/vietnam%20-%23F75341.svg?style=for-the-badge&logo=reverbnation&logoColor=FED06E" alt="Vietnamese initiative"></a></p>
 
 ## 💡 About
@@ -78,6 +79,25 @@ Here is a list of tools that i have experience with:
 ## ✨ Projects
 Here are some of my projects:
 
+
+<details>
+  <summary><a href="https://github.com/info-mono">ℹ️ InfoMono</a></summary>
+
+  ---
+</details>
+
+<details>
+  <summary><a href="https://github.com/superb-ui">🖼️ BUI</a></summary>
+
+  |   |   |
+  |:-:|:-:|
+  |[![BUI](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bui&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/bui)|[![BUI.kak](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bui.kak&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/bui.kak)|
+  |[![BUI appearance](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bui-appearance&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/bui-appearance)|[![BUI terminal](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bui-terminal&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/bui-terminal)|
+  |[![BT](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bt&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/bt)||
+
+  ---
+</details>
+
 <details>
   <summary>🅱️ SuperB Bootstrap</summary>
 
@@ -86,18 +106,6 @@ Here are some of my projects:
   |   |   |
   |:-:|:-:|
   |[![Superb Bootstrap](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=superb-bootstrap&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/superb-bootstrap)|[![Bsymlink](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bsymlink&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/bsymlink)|
-
-  ---
-</details>
-
-<details>
-  <summary>🌈 BUI <code>(WIP)</code></summary>
-
-  |   |   |
-  |:-:|:-:|
-  |[![BUI](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bui&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/bui)|[![BUI.kak](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bui.kak&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/bui.kak)|
-  |[![BUI appearance](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bui-appearance&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/bui-appearance)|[![BUI terminal](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bui-terminal&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/bui-terminal)|
-  |[![BT](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bt&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/bt)||
 
   ---
 </details>
@@ -137,5 +145,5 @@ Improving my desktop design and workflow is one of my favorite hobby, here are m
   |   |   |
   |:-:|:-:|
   |[![Dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=dots&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/dots)|[![Wallpaper collections](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=wallpaper-collections&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/wallpaper-collections)|
-  |[![SuperB ST](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=superbst&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/superbst)|[![Bmono](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bmono&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/bmono)|
+  |[![SuperB ST](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=superb-st&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/superb-st)|[![Bmono](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bmono&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/bmono)|
 </details>
