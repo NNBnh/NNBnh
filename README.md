@@ -2,24 +2,18 @@
 <p align="center">Dev that <i>SuperB</i></p>
 <p align="center"><a href="https://github.com/NNBnh"><img src="https://github-readme-stats.vercel.app/api?username=NNBnh&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818"></a></p>
 <p align="center"><a href="https://github.com/NNBnh"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NNBnh&currStreakLabel=F7CA88&sideLabels=F7CA88&currStreakNum=F8F8F8&sideNums=F8F8F8&dates=F8F8F8&ring=F7CA88&fire=F7CA88&stroke=585858&background=181818"></a></p>
-<p align="center"> <a href="https://opensource.org"><img src="https://img.shields.io/badge/open_source%20-%2335BF5C.svg?style=for-the-badge&logo=open-source-initiative&logoColor=FFFFFF" alt="Open source initiative"></a> <a href="https://godotengine.org"><img src="https://img.shields.io/badge/godot%20-%23478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=FFFFFF" alt="Godot"></a> <a href="https://kakoune.org"><img src="https://img.shields.io/badge/kakoune%20-%23F9765A.svg?style=for-the-badge&logo=kodi&logoColor=FFFFFF" alt="Kakoune"></a> <a href="https://voidlinux.org"><img src="https://img.shields.io/badge/void_linux%20-%23478061.svg?style=for-the-badge&logo=linux&logoColor=FFFFFF" alt="Void Linux"></a> <a href="https://en.wikipedia.org/wiki/Vietnam#Culture"><img src="https://img.shields.io/badge/vietnam%20-%23F75341.svg?style=for-the-badge&logo=reverbnation&logoColor=FED06E" alt="Vietnamese initiative"></a></p>
+<p align="center"> <a href="https://opensource.org"><img src="https://img.shields.io/badge/open_source%20-%2335BF5C.svg?style=for-the-badge&logo=open-source-initiative&logoColor=FFFFFF" alt="Open source initiative"></a> <a href="https://godotengine.org"><img src="https://img.shields.io/badge/godot%20-%23478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=FFFFFF" alt="Godot"></a> <a href="https://kakoune.org"><img src="https://img.shields.io/badge/kakoune%20-%23F9765A.svg?style=for-the-badge&logo=kodi&logoColor=FFFFFF" alt="Kakoune"></a> <a href="https://nixos.org"><img src="https://img.shields.io/badge/linux%20-%235277C3.svg?style=for-the-badge&logo=nixos&logoColor=FFFFFF" alt="Linux"></a> <a href="https://en.wikipedia.org/wiki/Vietnam#Culture"><img src="https://img.shields.io/badge/vietnam%20-%23F75341.svg?style=for-the-badge&logo=reverbnation&logoColor=FED06E" alt="Vietnamese initiative"></a></p>
 
 ## 💡 About
 Hi, my name is **Nguyễn Nhật Anh**. I am:
 - 🇻🇳 A freshman born and grew up in Hà Nội
-- 🎨 An artist
-- 🎲 An UI/UX designer
-- 💻 A sorfware developer
-- 🌏 A web technology enthusiasm
+- 🎨 A visual designer
+- 💻 A programmer
 - 🎮 But mainly, I'm a **game developer**
 
 ## 🌏 Social
-[![Github: NNBnh](https://img.shields.io/github/followers/NNBnh?labelColor=24292E&color=24292E&label=github%20NNBnh&logo=github&logoColor=FFFFFF&style=for-the-badge)](https://github.com/NNBnh)
-
-[![Mastodon: @NNB@fosstodon.org](https://img.shields.io/mastodon/follow/255593?labelColor=3088D4&color=3088D4&domain=https%3A%2F%2Ffosstodon.org&label=mastodon%20%40NNB%20%40fosstodon.org&logo=mastodon&logoColor=FFFFFF&style=for-the-badge)](https://fosstodon.org/web/accounts/255593)
-
-[![Discord: NNB's workshop](https://img.shields.io/discord/740843363343007754?labelColor=6E84D2&color=6E84D2&label=discord%20NNB%27s%20workshop&logo=discord&logoColor=FFFFFF&style=for-the-badge)](https://discord.gg/H5r5GqUsSm)
-
+[![Github: NNBnh](https://img.shields.io/github/followers/NNBnh?labelColor=24292E&color=24292E&label=github%20NNBnh&logo=github&logoColor=FFFFFF&style=for-the-badge)](https://github.com/NNBnh)<br>
+[![Discord: NNB's workshop](https://img.shields.io/discord/740843363343007754?labelColor=6E84D2&color=6E84D2&label=discord%20NNB%27s%20workshop&logo=discord&logoColor=FFFFFF&style=for-the-badge)](https://discord.gg/H5r5GqUsSm)<br>
 [![Buy Me a Snack (Buy Me a Coffee)](https://img.shields.io/badge/buy_me_a_coffee%20-%23F7CA88.svg?logo=buy-me-a-coffee&logoColor=333333&style=for-the-badge)](https://www.buymeacoffee.com/nnbnh)
 
 ## ⭐ Skills
@@ -59,6 +53,7 @@ Here is a list of tools that i have experience with:
 
 [![Blender](https://img.shields.io/badge/blender%20-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=FFFFFF)](https://www.blender.org)
 [![Figma](https://img.shields.io/badge/figma%20-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=FFFFFF)](https://www.figma.com)
+[![GIMP](https://img.shields.io/badge/gimp%20-%235C5543.svg?style=for-the-badge&logo=gimp&logoColor=FFFFFF)](https://www.gimp.org)
 [![Krita](https://img.shields.io/badge/krita%20-%233BABFF.svg?style=for-the-badge&logo=krita&logoColor=FFFFFF)](https://krita.org)
 [![Affinity Photo](https://img.shields.io/badge/affinity_photo%20-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=FFFFFF)](https://affinity.serif.com/en-gb/photo)
 [![Photoshop](https://img.shields.io/badge/photoshop%20-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=FFFFFF)](https://alternativeto.net/software/adobe-photoshop)
@@ -69,6 +64,7 @@ Here is a list of tools that i have experience with:
 [![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=FFFFFF)](https://pandoc.org)
 [![SASS](https://img.shields.io/badge/sass%20-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=FFFFFF)](https://sass-lang.com)
 
+[![Nix OS](https://img.shields.io/badge/nixos%20-%235277C3.svg?style=for-the-badge&logo=nixos&logoColor=FFFFFF)](https://nixos.org)
 [![Void Linux](https://img.shields.io/badge/void_linux%20-%23478061.svg?style=for-the-badge&logo=linux&logoColor=FFFFFF)](https://voidlinux.org)
 [![Arch Linux](https://img.shields.io/badge/arch_linux%20-%231793D1.svg?style=for-the-badge&logo=arch-linux&logoColor=FFFFFF)](https://www.archlinux.org)
 [![Manjaro](https://img.shields.io/badge/manjaro%20-%2335BF5C.svg?style=for-the-badge&logo=manjaro&logoColor=FFFFFF)](https://manjaro.org)
@@ -87,7 +83,7 @@ Here are some of my projects:
 </details>
 
 <details>
-  <summary><a href="https://github.com/superb-ui">🖼️ BUI</a></summary>
+  <summary><a href="https://github.com/superb-ui">🖼️ SuperB UI</a></summary>
 
   |   |   |
   |:-:|:-:|
@@ -103,8 +99,8 @@ Here are some of my projects:
 
   <a href="https://github.com/NNBnh/superb-bootstrap"><img width="100%" src="https://user-images.githubusercontent.com/43980777/109499307-49ca3000-7ac7-11eb-9f66-3a2c8f5e90b4.png"></a>
 
-  |   |   |
-  |:-:|:-:|
+  |Main|Side|
+  |:--:|:--:|
   |[![Superb Bootstrap](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=superb-bootstrap&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/superb-bootstrap)|[![Bsymlink](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bsymlink&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/bsymlink)|
 
   ---
@@ -113,8 +109,8 @@ Here are some of my projects:
 <details>
   <summary>⌨️ Small utilities</summary>
 
-  |   |   |
-  |:-:|:-:|
+  |Main|Side|
+  |:--:|:--:|
   |[![Coderun](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=coderun&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/coderun)|[![Coderun.kak](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=coderun.kak&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/coderun.kak)|
   |[![Clipb](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=clipb&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/clipb)|[![Clipb.kak](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=clipb.kak&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/clipb.kak)|
   |[![SuperB MK](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=mk&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/mk)|[![SuperB HR](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=hr&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/hr)|
@@ -129,9 +125,7 @@ Here are some of projects which I have been involved in graphic design:
 
 <details>
 
-  |   |   |
-  |:-:|:-:|
-  |[![FlappyChim's assets](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=flappybirdart&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/flappybirdart)|[![Trophy](https://github.com/NNBnh/flappybirdart/blob/main/up/trophy.png)](https://github.com/NNBnh/flappybirdart/blob/main/trophy.png)|
+  [![FlappyChim's assets](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=flappybirdart&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/flappybirdart)
 
   ---
 </details>
