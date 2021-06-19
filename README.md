@@ -74,42 +74,20 @@ Here is a list of tools that i have experience with:
 
 ## ✨ Projects
 Here are some of my projects:
-
-
-<details>
-  <summary><a href="https://github.com/info-mono">ℹ️ InfoMono</a></summary>
-
-  ---
-</details>
+- [ℹ️ InfoMono](https://github.com/info-mono)
+- [🖼️ SuperB UI](https://github.com/superb-ui)
 
 <details>
-  <summary><a href="https://github.com/superb-ui">🖼️ SuperB UI</a></summary>
-
-  ---
-</details>
-
-<details>
-  <summary>🅱️ SuperB Bootstrap</summary>
-
-  <a href="https://github.com/NNBnh/superb-bootstrap"><img width="100%" src="https://user-images.githubusercontent.com/43980777/109499307-49ca3000-7ac7-11eb-9f66-3a2c8f5e90b4.png"></a>
+  <summary>💡 Other small project</summary>
 
   |Main|Side|
   |:--:|:--:|
-  |[![Superb Bootstrap](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=superb-bootstrap&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/superb-bootstrap)|[![Bsymlink](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bsymlink&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/bsymlink)|
-
-  ---
-</details>
-
-<details>
-  <summary>⌨️ Small utilities</summary>
-
-  |Main|Side|
-  |:--:|:--:|
+  |[![SuperB Bootstrap](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=superb-bootstrap&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](superb-bootstrap)|[![Bsymlink](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bsymlink&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/bsymlink)|
   |[![Coderun](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=coderun&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/coderun)|[![Coderun.kak](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=coderun.kak&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/coderun.kak)|
   |[![Clipb](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=clipb&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/clipb)|[![Clipb.kak](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=clipb.kak&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/clipb.kak)|
   |[![SuperB MK](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=mk&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/mk)|[![SuperB HR](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=hr&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/hr)|
   |[![Terminal explorer](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=terminal-explorer&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/terminal-explorer)|[![Sed collections](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=sed-collections&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/sed-collections)|
-  |[![Bfetch](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bfetch&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/bfetch)|[![Textart collections](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=textart-collections&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/textart-collections)|
+  |[![Bfetch](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bfetch&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/bfetch)||
 
   ---
 </details>
@@ -133,5 +111,6 @@ Improving my desktop design and workflow is one of my favorite hobby, here are m
   |   |   |
   |:-:|:-:|
   |[![Dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=dots&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/dots)|[![Wallpaper collections](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=wallpaper-collections&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/wallpaper-collections)|
-  |[![SuperB ST](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=superb-st&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/superb-st)|[![Bmono](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bmono&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/bmono)|
+  |[![SuperB ST](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=superb-st&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/superb-st)|[![Textart collections](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=textart-collections&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/textart-collections)|
+  |[![Bmono](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bmono&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/bmono)||
 </details>
