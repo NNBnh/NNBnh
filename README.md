@@ -74,7 +74,7 @@ Here is a list of tools that i have experience with:
 
 ## ✨ Projects
 Here are some of my projects:
-- [ℹ️ InfoMono](https://github.com/info-mono)
+- [ℹ️ Info Mono](https://github.com/info-mono)
 - [🖼️ SuperB UI](https://github.com/superb-ui)
 
 <details>
