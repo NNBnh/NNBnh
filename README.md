@@ -25,7 +25,7 @@ Hi, my name is **Nguyễn Nhật Anh**. I am:
  │
  ├─ [Art]                   ├─ [Programming]
  │    ├─ [UI]               ┆    ├─ Portable POSIXshell
- │    │    ├─ HUB           │    ├─ Python
+ │    │    ├─ HUD           │    ├─ Python
  │    │    ├─ GUI           │    └─ Godot GDscript
  │    │    └─ TUI           │
  │    │                     └─ [Game_design]
