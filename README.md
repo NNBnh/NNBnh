@@ -1,6 +1,6 @@
 <h1 align="center"><i>NNB</i></h1>
 <p align="center">Dev that <i>SuperB</i></p>
-<p align="center"><a href="https://github.com/NNBnh"><img src="https://count.getloli.com/get/@:NNBnh"></a></p>
+<p align="center"><a href="https://github.com/NNBnh"><img src="https://count.getloli.com/get/@:NNBnh?theme=gelbooru"></a></p>
 <p align="center"><a href="https://opensource.org"><img src="https://img.shields.io/badge/foss%20-%2335BF5C.svg?style=for-the-badge&logo=open-source-initiative&logoColor=FFFFFF" alt="Open source initiative"></a> <a href="https://godotengine.org"><img src="https://img.shields.io/badge/godot%20-%23478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=FFFFFF" alt="Godot"></a> <a href="https://kakoune.org"><img src="https://img.shields.io/badge/kakoune%20-%23F9765A.svg?style=for-the-badge&logo=kodi&logoColor=FFFFFF" alt="Kakoune"></a> <a href="https://nixos.org"><img src="https://img.shields.io/badge/linux%20-%235277C3.svg?style=for-the-badge&logo=nixos&logoColor=FFFFFF" alt="Linux"></a> <a href="https://en.wikipedia.org/wiki/Vietnam#Culture"><img src="https://img.shields.io/badge/vietnam%20-%23F75341.svg?style=for-the-badge&logo=reverbnation&logoColor=FED06E" alt="Vietnamese initiative"></a></p>
 
 ## 💡 About
