@@ -12,7 +12,7 @@
 Hi, my name is **Nguyễn Nhật Anh**. I am:
 - 🇻🇳 A freshman born and grew up in Hà Nội
 - 🎨 A visual designer
-- 💻 A programmer
+- 💻 An open source programmer
 - 🎮 But mainly, I'm a **game developer**
 
 ## 🌏 Social
