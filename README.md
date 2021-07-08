@@ -1,8 +1,7 @@
 <h1 align="center"><i>NNB</i></h1>
 <p align="center">Dev that <i>SuperB</i></p>
-<p align="center"><a href="https://github.com/NNBnh"><img src="https://github-readme-stats.vercel.app/api?username=NNBnh&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818"></a></p>
-<p align="center"><a href="https://github.com/NNBnh"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NNBnh&currStreakLabel=F7CA88&sideLabels=F7CA88&currStreakNum=F8F8F8&sideNums=F8F8F8&dates=F8F8F8&ring=F7CA88&fire=F7CA88&stroke=585858&background=181818"></a></p>
-<p align="center"> <a href="https://opensource.org"><img src="https://img.shields.io/badge/open_source%20-%2335BF5C.svg?style=for-the-badge&logo=open-source-initiative&logoColor=FFFFFF" alt="Open source initiative"></a> <a href="https://godotengine.org"><img src="https://img.shields.io/badge/godot%20-%23478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=FFFFFF" alt="Godot"></a> <a href="https://kakoune.org"><img src="https://img.shields.io/badge/kakoune%20-%23F9765A.svg?style=for-the-badge&logo=kodi&logoColor=FFFFFF" alt="Kakoune"></a> <a href="https://nixos.org"><img src="https://img.shields.io/badge/linux%20-%235277C3.svg?style=for-the-badge&logo=nixos&logoColor=FFFFFF" alt="Linux"></a> <a href="https://en.wikipedia.org/wiki/Vietnam#Culture"><img src="https://img.shields.io/badge/vietnam%20-%23F75341.svg?style=for-the-badge&logo=reverbnation&logoColor=FED06E" alt="Vietnamese initiative"></a></p>
+<p align="center"><a href="https://github.com/NNBnh"><img src="https://count.getloli.com/get/@:NNBnh"></a></p>
+<p align="center"> <a href="https://opensource.org"><img src="https://img.shields.io/badge/foss%20-%2335BF5C.svg?style=for-the-badge&logo=open-source-initiative&logoColor=FFFFFF" alt="Open source initiative"></a> <a href="https://godotengine.org"><img src="https://img.shields.io/badge/godot%20-%23478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=FFFFFF" alt="Godot"></a> <a href="https://kakoune.org"><img src="https://img.shields.io/badge/kakoune%20-%23F9765A.svg?style=for-the-badge&logo=kodi&logoColor=FFFFFF" alt="Kakoune"></a> <a href="https://nixos.org"><img src="https://img.shields.io/badge/linux%20-%235277C3.svg?style=for-the-badge&logo=nixos&logoColor=FFFFFF" alt="Linux"></a> <a href="https://en.wikipedia.org/wiki/Vietnam#Culture"><img src="https://img.shields.io/badge/vietnam%20-%23F75341.svg?style=for-the-badge&logo=reverbnation&logoColor=FED06E" alt="Vietnamese initiative"></a></p>
 
 ## 💡 About
 Hi, my name is **Nguyễn Nhật Anh**. I am:
@@ -10,6 +9,13 @@ Hi, my name is **Nguyễn Nhật Anh**. I am:
 - 🎨 A visual designer
 - 💻 A programmer
 - 🎮 But mainly, I'm a **game developer**
+
+<details>
+  <summary>💡 My status</summary>
+ 
+  <img src="https://github-readme-stats.vercel.app/api?username=NNBnh&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NNBnh&currStreakLabel=F7CA88&sideLabels=F7CA88&currStreakNum=F8F8F8&sideNums=F8F8F8&dates=F8F8F8&ring=F7CA88&fire=F7CA88&stroke=585858&background=181818">
+</details>
 
 ## 🌏 Social
 [![Github: NNBnh](https://img.shields.io/github/followers/NNBnh?labelColor=24292E&color=24292E&label=github%20NNBnh&logo=github&logoColor=FFFFFF&style=for-the-badge)](https://github.com/NNBnh)<br>
@@ -78,7 +84,7 @@ Here are some of my projects:
 - [🖼️ SuperB UI](https://github.com/superb-ui)
 
 <details>
-  <summary>💡 Other small project</summary>
+  <summary>⌨️ Other small project</summary>
 
   |Main|Side|
   |:--:|:--:|
@@ -89,7 +95,6 @@ Here are some of my projects:
   |[![Terminal explorer](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=terminal-explorer&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/terminal-explorer)|[![Sed collections](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=sed-collections&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/sed-collections)|
   |[![Bfetch](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bfetch&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/bfetch)||
 
-  ---
 </details>
 
 ## 🖼️ Art
@@ -99,7 +104,6 @@ Here are some of projects which I have been involved in graphic design:
 
   [![FlappyChim's assets](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=flappybirdart&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/flappybirdart)
 
-  ---
 </details>
 
 ## 🎀 OS rice
