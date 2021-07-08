@@ -1,0 +1,7 @@
+- [**Shields.io**](https://shields.io) [=](https://github.com/badges "Shields.io's Github page") A service for concise, consistent, and legible badges in SVG and raster format.
+- [**Repology**](https://repology.org) [=](mailto:amdmi3@amdmi3.ru "Dmitry Marakasov's email") Repology monitors a huge number of package repositories and other sources comparing packages versions across them and gathering other information.
+- [**Moe counter**](https://count.getloli.com) [=](https://github.com/journey-ad "Jad's Github page") Count visitors with anime girls.
+- [**GitHub Readme Stats**](https://github.com/anuraghazra/github-readme-stats) [=](https://github.com/anuraghazra "Anurag Hazra's Github page") Dynamically generated stats for your github readmes.
+- [**Github Readme Streak Stats**](https://github.com/DenverCoder1/github-readme-streak-stats) [=](https://github.com/DenverCoder1 "Jonah Lawrence's Github page") Display your total contributions, current streak, and longest streak.
+- [**FOSSA**](https://fossa.com) [=](https://fossa.com/ "FOSSA, Inc.") Accelerate open source adoption at scale with automated compliance, security & quality.
+- [**All Contributors**](https://allcontributors.org/) [=](https://github.com/all-contributors "All Contributors's Github page") Recognize all contributors, not just the ones who push code.
