@@ -46,8 +46,8 @@ Hi, my name is **Nguyễn Nhật Anh**. I am:
 
 ```
 
-## 🧰 Tools
-Here is a list of tools that i have experience with:
+## ⚡ Technologies
+Here is a list of technologies that i have experience with:
 
 [![Godot](https://img.shields.io/badge/godot%20-%23478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=FFFFFF)](https://godotengine.org)
 [![Kakoune](https://img.shields.io/badge/kakoune%20-%23F9765A.svg?style=for-the-badge&logo=kodi&logoColor=FFFFFF)](https://kakoune.org)
@@ -62,9 +62,10 @@ Here is a list of tools that i have experience with:
 [![Affinity Photo](https://img.shields.io/badge/affinity_photo%20-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=FFFFFF)](https://affinity.serif.com/en-gb/photo)
 [![Photoshop](https://img.shields.io/badge/photoshop%20-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=FFFFFF)](https://alternativeto.net/software/adobe-photoshop)
 
+[![Python](https://img.shields.io/badge/python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=FFFFFF)](https://www.python.org)
 [![Portable Shell](https://img.shields.io/badge/posix_shell%20-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/dylanaraps/pure-sh-bible)
-[![PYTHON](https://img.shields.io/badge/python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=FFFFFF)](https://www.python.org)
-[![MARKDOWN](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=FFFFFF)](https://pandoc.org)
+[![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF)](https://isocpp.org)
+[![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=FFFFFF)](https://pandoc.org)
 [![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=FFFFFF)](https://pandoc.org)
 [![SASS](https://img.shields.io/badge/sass%20-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=FFFFFF)](https://sass-lang.com)
 
