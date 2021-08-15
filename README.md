@@ -81,6 +81,7 @@ Here is a list of technologies that i have experience with:
 Here are some of my projects:
 - [ℹ️ Info Mono](https://github.com/info-mono)
 - [🖼️ SuperB UI](https://github.com/superb-ui)
+- [🍊 Orange markup language](https://github.com/NNBnh/orml)
 
 <details>
   <summary>⌨️ Other small project</summary>
@@ -102,6 +103,7 @@ Here are some of projects which I have been involved in graphic design:
 <details>
 
   [![FlappyChim's assets](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=flappybirdart&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/flappybirdart)
+  [![Chess logo](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=chess-logo&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/chess-logo)
 
 </details>
 
@@ -116,4 +118,14 @@ Improving my desktop design and workflow is one of my favorite hobby, here are m
   |[![Dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=dots&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/dots)|[![Wallpapers](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=wallpapers&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/wallpapers)|
   |[![SuperB ST](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=superb-st&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/superb-st)|[![Textarts](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=textarts&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/textarts)|
   |[![Bmono](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bmono&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/bmono)||
+</details>
+
+## 🎮 Gaming
+My gaming stuff:
+
+<details>
+
+  [![Minecraft bookmarks](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=minecraft-bookmarks&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/minecraft-bookmarks)
+  [![Craft Everything](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=craft-everything&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/craft-everything)
+  [![NNB Arcade](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=osu-arcade&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/osu-arcade)
 </details>
