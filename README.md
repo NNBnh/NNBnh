@@ -125,7 +125,7 @@ My gaming stuff:
 
 <details>
 
-  [![Minecraft bookmarks](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=minecraft-bookmarks&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/minecraft-bookmarks)
-  [![Craft Everything](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=craft-everything&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/craft-everything)
+  [![Minecraft bookmarks](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=minecraft-bookmarks&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/minecraft-bookmarks)<br>
+  [![Craft Everything](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=craft-everything&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/craft-everything)<br>
   [![NNB Arcade](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=osu-arcade&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/osu-arcade)
 </details>
