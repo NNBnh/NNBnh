@@ -5,8 +5,8 @@
 
 ## 💡 About
 <a href="https://github.com/NNBnh">
-  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=NNBnh&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818">
-  <img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=NNBnh&currStreakLabel=F7CA88&sideLabels=F7CA88&currStreakNum=F8F8F8&sideNums=F8F8F8&dates=F8F8F8&ring=F7CA88&fire=F7CA88&stroke=585858&background=181818">
+  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=NNBnh&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D">
+  <img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=NNBnh&currStreakLabel=6BB8FF&sideLabels=FFC387&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&ring=6BB8FF&fire=FA7883&stroke=525866&background=22273D">
 </a>
 
 Hi, my name is **Nguyễn Nhật Anh**. I am:
@@ -18,7 +18,7 @@ Hi, my name is **Nguyễn Nhật Anh**. I am:
 ## 🌏 Social
 [![Github: NNBnh](https://img.shields.io/github/followers/NNBnh?labelColor=24292E&color=24292E&label=github%20NNBnh&logo=github&logoColor=FFFFFF&style=for-the-badge)](https://github.com/NNBnh)<br>
 [![Discord: NNB's workshop](https://img.shields.io/discord/740843363343007754?labelColor=6E84D2&color=6E84D2&label=discord%20NNB%27s%20workshop&logo=discord&logoColor=FFFFFF&style=for-the-badge)](https://discord.gg/H5r5GqUsSm)<br>
-[![Buy Me a Snack (Buy Me a Coffee)](https://img.shields.io/badge/buy_me_a_coffee%20-%23F7CA88.svg?logo=buy-me-a-coffee&logoColor=333333&style=for-the-badge)](https://www.buymeacoffee.com/nnbnh)
+[![Buy Me a Snack (Buy Me a Coffee)](https://img.shields.io/badge/buy_me_a_coffee%20-%23FFC387.svg?logo=buy-me-a-coffee&logoColor=333333&style=for-the-badge)](https://www.buymeacoffee.com/nnbnh)
 
 ## ⭐ Skills
 ```python
@@ -69,7 +69,6 @@ Here is a list of technologies that i have experience with:
 [![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF)](https://isocpp.org)
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=FFFFFF)](https://pandoc.org)
 [![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=FFFFFF)](https://pandoc.org)
-[![SASS](https://img.shields.io/badge/sass%20-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=FFFFFF)](https://sass-lang.com)
 
 [![Nix OS](https://img.shields.io/badge/nixos%20-%235277C3.svg?style=for-the-badge&logo=nixos&logoColor=FFFFFF)](https://nixos.org)
 [![Void Linux](https://img.shields.io/badge/void_linux%20-%23478061.svg?style=for-the-badge&logo=linux&logoColor=FFFFFF)](https://voidlinux.org)
@@ -82,7 +81,6 @@ Here is a list of technologies that i have experience with:
 ## ✨ Projects
 Here are some of my projects:
 - [ℹ️ Info Mono](https://github.com/info-mono)
-- [🖼️ SuperB UI](https://github.com/superb-ui)
 - [🍊 Orange markup language](https://github.com/NNBnh/orml)
 - [🧠 Brainf█ker](https://github.com/NNBnh/brainfucker)
 
@@ -91,12 +89,12 @@ Here are some of my projects:
 
   |Main|Side|
   |:--:|:--:|
-  |[![SuperB Bootstrap](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=superb-bootstrap&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/superb-bootstrap)|[![Bsymlink](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bsymlink&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/bsymlink)|
-  |[![Coderun](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=coderun&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/coderun)|[![Coderun.kak](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=coderun.kak&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/coderun.kak)|
-  |[![Clipb](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=clipb&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/clipb)|[![Clipb.kak](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=clipb.kak&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/clipb.kak)|
-  |[![SuperB MK](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=mk&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/mk)|[![SuperB HR](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=hr&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/hr)|
-  |[![Terminal explorer](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=terminal-explorer&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/terminal-explorer)|[![Sed collections](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=sed-collections&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/sed-collections)|
-  |[![Bfetch](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bfetch&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/bfetch)||
+  |[![SuperB Bootstrap](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=superb-bootstrap&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/superb-bootstrap)|[![Bsymlink](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bsymlink&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/bsymlink)|
+  |[![Coderun](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=coderun&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/coderun)|[![Coderun.kak](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=coderun.kak&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/coderun.kak)|
+  |[![Clipb](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=clipb&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/clipb)|[![Clipb.kak](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=clipb.kak&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/clipb.kak)|
+  |[![SuperB MK](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=mk&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/mk)|[![SuperB HR](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=hr&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/hr)|
+  |[![Terminal explorer](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=terminal-explorer&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/terminal-explorer)|[![Sed collections](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=sed-collections&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/sed-collections)|
+  |[![Bfetch](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bfetch&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/bfetch)||
 
 </details>
 
@@ -105,8 +103,8 @@ Here are some of projects which I have been involved in graphic design:
 
 <details>
 
-  [![FlappyChim's assets](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=flappybirdart&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/flappybirdart)
-  [![Chess logo](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=chess-logo&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/chess-logo)
+  [![FlappyChim's assets](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=flappybirdart&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/flappybirdart)
+  [![Chess logo](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=chess-logo&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/chess-logo)
 
 </details>
 
@@ -118,9 +116,9 @@ Improving my desktop design and workflow is one of my favorite hobby, here are m
 
   |   |   |
   |:-:|:-:|
-  |[![Dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=dots&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/dots)|[![Wallpapers](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=wallpapers&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/wallpapers)|
-  |[![SuperB ST](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=superb-st&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/superb-st)|[![ANSI Art](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=ansi&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/ansi)|
-  |[![Bmono](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bmono&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/bmono)|[![Da One](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=da-one&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/da-one)|
+  |[![Dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=dots&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/dots)|[![Wallpapers](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=wallpapers&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/wallpapers)|
+  |[![SuperB ST](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=superb-st&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/superb-st)|[![ANSI Art](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=ansi&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/ansi)|
+  |[![Bmono](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bmono&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/bmono)|[![Da One](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=da-one&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/da-one)|
 </details>
 
 ## 🎮 Gaming
@@ -128,7 +126,7 @@ My gaming stuff:
 
 <details>
 
-  [![Minecraft bookmarks](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=minecraft-bookmarks&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/minecraft-bookmarks)<br>
-  [![Craft Everything](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=craft-everything&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/craft-everything)<br>
-  [![NNB Arcade](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=osu-arcade&show_icons=true&title_color=F7CA88&text_color=F8F8F8&icon_color=F7CA88&bg_color=181818)](https://github.com/NNBnh/osu-arcade)
+  [![Minecraft bookmarks](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=minecraft-bookmarks&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/minecraft-bookmarks)<br>
+  [![Craft Everything](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=craft-everything&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/craft-everything)<br>
+  [![NNB Arcade](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=osu-arcade&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/osu-arcade)
 </details>
