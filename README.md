@@ -4,16 +4,15 @@
 <p align="center"><a href="https://opensource.org"><img src="https://img.shields.io/badge/foss%20-%2335BF5C.svg?style=for-the-badge&logo=open-source-initiative&logoColor=FFFFFF" alt="Open source initiative"></a> <a href="https://godotengine.org"><img src="https://img.shields.io/badge/godot%20-%23478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=FFFFFF" alt="Godot"></a> <a href="https://kakoune.org"><img src="https://img.shields.io/badge/kakoune%20-%23F9765A.svg?style=for-the-badge&logo=kodi&logoColor=FFFFFF" alt="Kakoune"></a> <a href="https://nixos.org"><img src="https://img.shields.io/badge/linux%20-%235277C3.svg?style=for-the-badge&logo=nixos&logoColor=FFFFFF" alt="Linux"></a> <a href="https://en.wikipedia.org/wiki/Vietnam#Culture"><img src="https://img.shields.io/badge/vietnam%20-%23F75341.svg?style=for-the-badge&logo=reverbnation&logoColor=FED06E" alt="Vietnamese initiative"></a></p>
 
 ## 💡 About
-<a href="https://github.com/NNBnh">
-  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=NNBnh&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D">
-  <img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=NNBnh&currStreakLabel=6BB8FF&sideLabels=FFC387&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&ring=6BB8FF&fire=FA7883&stroke=525866&background=22273D">
-</a>
+
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=NNBnh&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D">
+<img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=NNBnh&currStreakLabel=6BB8FF&sideLabels=FFC387&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&ring=6BB8FF&fire=FA7883&stroke=525866&background=22273D">
 
 Hi, my name is **Nguyễn Nhật Anh**. I am:
-- 🇻🇳 A freshman born and grew up in Hà Nội
-- 🎨 A visual designer
-- 💻 An open source programmer
-- 🎮 But mainly, I'm a **game developer**
+- 🇻🇳 A freshman born and grew up in Hà Nội.
+- 🎨 A visual designer.
+- 💻 An open source programmer.
+- 🎮 But mainly, I'm a **game developer**.
 
 ## 🌏 Social
 [![Github: NNBnh](https://img.shields.io/github/followers/NNBnh?labelColor=24292E&color=24292E&label=github%20NNBnh&logo=github&logoColor=FFFFFF&style=for-the-badge)](https://github.com/NNBnh)<br>
