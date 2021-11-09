@@ -41,7 +41,7 @@ Hi, my name is **Nguyễn Nhật Anh**. I am:
  │    │                          ├─ [Story_writing]
  │    └─ [Web_design]            │    ├─ Character_building
  ┆         ├─ Markdown           │    └─ World_building
-           └─ HTML + SASS        │
+           └─ HTML + JS          │
  ┆                               └─ UX
 
 ```
@@ -65,6 +65,7 @@ Here is a list of technologies that i have experience with:
 [![Python](https://img.shields.io/badge/python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=FFFFFF)](https://www.python.org)
 [![Ruby](https://img.shields.io/badge/ruby%20-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=FFFFFF)](https://www.ruby-lang.org)
 [![Portable Shell](https://img.shields.io/badge/posix_shell%20-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/dylanaraps/pure-sh-bible)
+[![Javascript](https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=333333)](https://en.wikipedia.org/wiki/JavaScript)
 [![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF)](https://isocpp.org)
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=FFFFFF)](https://pandoc.org)
 [![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=FFFFFF)](https://pandoc.org)
@@ -83,6 +84,7 @@ Here are some of my projects:
 - [ℹ️ Info Mono](https://github.com/info-mono)
 - [🖼️ SuperB UI](https://github.com/superb-ui)
 - [🍊 Orange markup language](https://github.com/NNBnh/orml)
+- [🧠 Brainf█ker](https://github.com/NNBnh/brainfucker)
 
 <details>
   <summary>⌨️ Other small project</summary>
