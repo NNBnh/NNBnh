@@ -4,7 +4,6 @@
 ## 💡 About
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=NNBnh&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D">
-<img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=NNBnh&currStreakLabel=6BB8FF&sideLabels=FFC387&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&ring=6BB8FF&fire=FA7883&stroke=525866&background=22273D">
 
 Hi, my name is **Nguyễn Nhật Anh**. I am:
 - 🇻🇳 A freshman born and grew up in Hà Nội.
