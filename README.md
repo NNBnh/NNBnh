@@ -12,11 +12,13 @@ Hi, my name is **Nguyễn Nhật Anh**. I am:
 - 🎮 But mainly, I'm a **game developer**.
 
 ## 🌏 Social
+
 [![Github: NNBnh](https://img.shields.io/github/followers/NNBnh?labelColor=24292E&color=24292E&label=github%20NNBnh&logo=github&logoColor=FFFFFF&style=for-the-badge)](https://github.com/NNBnh)
 [![Buy Me a Snack (Buy Me a Coffee)](https://img.shields.io/badge/buy_me_a_coffee%20-%23FFC387.svg?logo=buy-me-a-coffee&logoColor=333333&style=for-the-badge)](https://www.buymeacoffee.com/nnbnh)
 [![Discord: NNB's workshop](https://img.shields.io/discord/740843363343007754?labelColor=6E84D2&color=6E84D2&label=discord%20NNB%27s%20workshop&logo=discord&logoColor=FFFFFF&style=for-the-badge)](https://discord.gg/H5r5GqUsSm)
 
 ## ⭐ Skills
+
 ```python
 #|    _  ___  _____ _               __    _ ____     __
 #|   / |/ / |/ / _ | )___      ___ / /__ (_) / /    / /________ ___
@@ -24,7 +26,7 @@ Hi, my name is **Nguyễn Nhật Anh**. I am:
 #| /_/|_/_/|_/____/ /___/    /___/_/\_\/_/_/_/     \__/_/  \__/\__/
  │
  ├─ [Art]                   ├─ [Programming]
- │    ├─ [UI]               ┆    ├─ Portable POSIXshell
+ │    ├─ [UI]               │    ├─ Portable POSIXshell
  │    │    ├─ HUD           │    ├─ Python, Ruby
  │    │    ├─ GUI           │    └─ Godot GDscript
  │    │    └─ TUI           │
@@ -36,13 +38,14 @@ Hi, my name is **Nguyễn Nhật Anh**. I am:
  │    │    └─ Background         │
  │    │                          ├─ [Story_writing]
  │    └─ [Web_design]            │    ├─ Character_building
- ┆         ├─ Markdown           │    └─ World_building
+ │         ├─ Markdown           │    └─ World_building
            └─ HTML + JS          │
- ┆                               └─ UX
+ │                               └─ UX
 
 ```
 
 ## ⚡ Technologies
+
 Here is a list of technologies that i have experience with:
 
 [![Godot](https://img.shields.io/badge/godot%20-%23478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=FFFFFF)](https://godotengine.org)
@@ -75,6 +78,7 @@ Here is a list of technologies that i have experience with:
 [![Windows](https://img.shields.io/badge/windows%20-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=FFFFFF)](https://www.microsoft.com/en-gb/software-download/windows10)
 
 ## ✨ Projects
+
 Here are some of my projects:
 - [ℹ️ Info Mono](https://github.com/info-mono)
 
@@ -99,6 +103,7 @@ Here are some of my projects:
 </details>
 
 ## 🖼️ Art
+
 Here are some of projects which I have been involved in graphic design:
 
 <details>
@@ -109,6 +114,7 @@ Here are some of projects which I have been involved in graphic design:
 </details>
 
 ## 🎀 OS rice
+
 Improving my desktop design and workflow is one of my favorite hobby, here are my [`Đotfiles`](https://github.com/NNBnh/dots) as well as my other resources:
 
 <details>
@@ -124,6 +130,7 @@ Improving my desktop design and workflow is one of my favorite hobby, here are m
 </details>
 
 ## 🎮 Gaming
+
 My gaming stuff:
 
 <details>
