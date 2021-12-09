@@ -12,8 +12,7 @@
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=NNBnh&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D">
 
-Hi, my name is **Nguyễn Nhật Anh**. <br>
-I am:
+Hello, my name is **Nguyễn Nhật Anh** and I am:
 - 🇻🇳 A freshman born and grew up in Hà Nội.
 - 🎨 A visual designer.
 - 💻 An open source programmer.
