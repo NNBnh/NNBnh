@@ -1,5 +1,24 @@
 <p align="center"><b><img src="https://user-images.githubusercontent.com/43980777/142753662-86c3b2dc-496d-4d34-bc39-40beb84d004f.png" alt="NNB: dev that SuperB"></b></p>
-<p align="center"><a href="https://opensource.org"><img src="https://img.shields.io/badge/foss%20-%2335BF5C.svg?style=for-the-badge&logo=open-source-initiative&logoColor=FFFFFF" alt="Open source initiative"></a> <a href="https://godotengine.org"><img src="https://img.shields.io/badge/godot%20-%23478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=FFFFFF" alt="Godot"></a> <a href="https://kakoune.org"><img src="https://img.shields.io/badge/kakoune%20-%23F9765A.svg?style=for-the-badge&logo=kodi&logoColor=FFFFFF" alt="Kakoune"></a> <a href="https://nixos.org"><img src="https://img.shields.io/badge/linux%20-%235277C3.svg?style=for-the-badge&logo=nixos&logoColor=FFFFFF" alt="Linux"></a> <a href="https://en.wikipedia.org/wiki/Vietnam#Culture"><img src="https://img.shields.io/badge/vietnam%20-%23F75341.svg?style=for-the-badge&logo=reverbnation&logoColor=FED06E" alt="Vietnamese initiative"></a></p>
+<p align="center">
+  <a href="https://opensource.org">
+    <img src="https://img.shields.io/badge/foss%20-%2335BF5C.svg?style=for-the-badge&logo=open-source-initiative&logoColor=FFFFFF" alt="Open source initiative">
+  </a>
+  <a href="https://nixos.org">
+    <img src="https://img.shields.io/badge/linux%20-%235277C3.svg?style=for-the-badge&logo=nixos&logoColor=FFFFFF" alt="Linux">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Command-line_interface">
+    <img src="https://img.shields.io/badge/cli%20-%23181818.svg?style=for-the-badge&logo=gnu-bash&logoColor=FFFFFF" alt="CLI">
+  </a>
+  <a href="https://kakoune.org">
+    <img src="https://img.shields.io/badge/kakoune%20-%23F9765A.svg?style=for-the-badge&logo=kodi&logoColor=FFFFFF" alt="Kakoune">
+  </a>
+  <a href="https://godotengine.org">
+    <img src="https://img.shields.io/badge/godot%20-%23478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=FFFFFF" alt="Godot">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Vietnam#Culture">
+    <img src="https://img.shields.io/badge/vietnam%20-%23F75341.svg?style=for-the-badge&logo=reverbnation&logoColor=FED06E" alt="Vietnamese initiative">
+  </a>
+</p>
 
 ## 💡 About
 
@@ -13,7 +32,6 @@ Hi, my name is **Nguyễn Nhật Anh**. I am:
 
 ## 🌏 Social
 
-[![Github: NNBnh](https://img.shields.io/github/followers/NNBnh?labelColor=24292E&color=24292E&label=github%20NNBnh&logo=github&logoColor=FFFFFF&style=for-the-badge)](https://github.com/NNBnh)
 [![Buy Me a Snack (Buy Me a Coffee)](https://img.shields.io/badge/buy_me_a_coffee%20-%23FFC387.svg?logo=buy-me-a-coffee&logoColor=333333&style=for-the-badge)](https://www.buymeacoffee.com/nnbnh)
 [![Discord: NNB's workshop](https://img.shields.io/discord/740843363343007754?labelColor=6E84D2&color=6E84D2&label=discord%20NNB%27s%20workshop&logo=discord&logoColor=FFFFFF&style=for-the-badge)](https://discord.gg/H5r5GqUsSm)
 
@@ -79,14 +97,14 @@ Here is a list of technologies that i have experience with:
 
 ## ✨ Projects
 
-Here are some of my projects:
-- [ℹ️ Info Mono](https://github.com/info-mono)
-
 [![🍊 Orange markup language](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=orml&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/orml)
 [![🧠 BrainAlias](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=brainalias&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/brainalias)
 
+<br>
+
 <details>
-  <summary>⌨️ Other small project</summary>
+  <summary><b>📟 CLI tools</b></summary>
+  <br>
 
   [![SuperB Bootstrap](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=superb-bootstrap&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/superb-bootstrap)
   [![Bsymlink](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bsymlink&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/bsymlink)
@@ -100,24 +118,34 @@ Here are some of my projects:
   [![Sed collections](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=sed-collections&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/sed-collections)
   [![Bfetch](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bfetch&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/bfetch)
 
+  <div align="center">
+
+  | Check out [**Info Mono**](https://github.com/info-mono) for more CLI tools focused on displaying information. |
+  | ------------------------------------------------------------------------------------------------------------- |
+
+  </div>
+
+  <br>
 </details>
 
-## 🖼️ Art
-
-Here are some of projects which I have been involved in graphic design:
-
 <details>
+  <summary><b>🖼️ Art</b></summary>
+  <br>
+
+  Some of projects which I have been involved in graphic design:
 
   [![FlappyChim's assets](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=flappybirdart&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/flappybirdart)
   [![Chess logo](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=chess-logo&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/chess-logo)
 
+  <br>
 </details>
 
-## 🎀 OS rice
-
-Improving my desktop design and workflow is one of my favorite hobby, here are my [`Đotfiles`](https://github.com/NNBnh/dots) as well as my other resources:
-
 <details>
+  <summary><b>🎀 OS rice</b></summary>
+  <br>
+
+  Improving my desktop design and workflow is one of my favorite hobby, here are my [`Đotfiles`](https://github.com/NNBnh/dots) as well as my other resources:
+
   <a href="https://github.com/NNBnh/dots"><img width="100%" src="https://user-images.githubusercontent.com/43980777/108480424-85941700-72c9-11eb-8380-89ddb5202607.png"></a>
 
   [![Dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=dots&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/dots)
@@ -127,15 +155,17 @@ Improving my desktop design and workflow is one of my favorite hobby, here are m
   [![Bmono](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bmono&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/bmono)
   [![Da One](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=da-one&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/da-one)
   [![Base16 terminal Kakoune](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=base16-terminal.kak&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/base16-terminal.kak)
+
+  <br>
 </details>
 
-## 🎮 Gaming
-
-My gaming stuff:
-
 <details>
+  <summary><b>🎮 Gaming</b></summary>
+  <br>
 
   [![Minecraft bookmarks](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=minecraft-bookmarks&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/minecraft-bookmarks)
   [![Craft Everything](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=craft-everything&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/craft-everything)
   [![NNB Arcade](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=osu-arcade&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/osu-arcade)
+
+  <br>
 </details>
