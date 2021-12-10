@@ -21,7 +21,7 @@ Hello, my name is **Nguyễn Nhật Anh** and I am:
 ## 🌏 Social
 
 [![Buy Me a Snack (Buy Me a Coffee)](https://img.shields.io/badge/buy_me_a_coffee%20-%23FFC387.svg?logo=buy-me-a-coffee&logoColor=333333&style=for-the-badge)](https://www.buymeacoffee.com/nnbnh)
-[![Discord: NNB's workshop](https://img.shields.io/discord/740843363343007754?labelColor=6E84D2&color=6E84D2&label=discord%20NNB%27s%20workshop&logo=discord&logoColor=FFFFFF&style=for-the-badge)](https://discord.gg/H5r5GqUsSm)
+[![Discord: NNB's workshop](https://img.shields.io/discord/740843363343007754?labelColor=6E84D2&color=6E84D2&label=discord&logo=discord&logoColor=FFFFFF&style=for-the-badge)](https://discord.gg/H5r5GqUsSm)
 
 ## ⭐ Skills
 
@@ -33,28 +33,26 @@ Hello, my name is **Nguyễn Nhật Anh** and I am:
  │
  ├─ [Art]                   ├─ [Programming]
  │    ├─ [UI]               │    ├─ Portable POSIXshell
- │    │    ├─ HUD           │    ├─ Python, Ruby
+ │    │    ├─ HUD           │    ├─ Python, Ruby, ...
  │    │    ├─ GUI           │    └─ Godot GDscript
- │    │    └─ TUI           │
- │    │                     └─ [Game_design]
- │    ├─ [Drawing]               ├─ [Level_design]
- │    │    ├─ Pixel_art          │    ├─ Platformer
- │    │    ├─ ASCII_art          │    ├─ Top_down
- │    │    ├─ Tileset            │    └─ Environmental_storytelling
- │    │    └─ Background         │
- │    │                          ├─ [Story_writing]
- │    └─ [Web_design]            │    ├─ Character_building
- │         ├─ Markdown           │    └─ World_building
-           └─ HTML + JS          │
- │                               └─ UX
-
+ │    │    ├─ TUI           │
+ │    │    └─ CLI           └─ [Game_design]
+ │    │                          ├─ [Level_design]
+ │    ├─ [Drawing]               │    ├─ Platformer
+ │    │    ├─ Pixel_art          │    ├─ Top_down
+ │    │    ├─ ASCII_art          │    └─ Environmental_storytelling
+ │    │    ├─ Tileset            │
+ │    │    └─ Background         ├─ [Story_writing]
+ │    │                          │    ├─ Character_building
+ │    └─ [Web_design]            │    └─ World_building
+           ├─ Markdown           │
+ │         └─ HTML + JS          └─ UX
 ```
 
 ## ⚡ Technologies
 
-Here is a list of technologies that i have experience with:
-
 [![Godot](https://img.shields.io/badge/godot%20-%23478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=FFFFFF)](https://godotengine.org)
+[![Helix](https://img.shields.io/badge/helix%20-%23502E66.svg?style=for-the-badge&logo=sublime-text&logoColor=FFFFFF)](https://helix-editor.com)
 [![Kakoune](https://img.shields.io/badge/kakoune%20-%23F9765A.svg?style=for-the-badge&logo=kodi&logoColor=FFFFFF)](https://kakoune.org)
 [![VScode](https://img.shields.io/badge/vscode%20-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=FFFFFF)](https://vscodium.com)
 [![Neovim](https://img.shields.io/badge/neovim%20-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=FFFFFF)](https://neovim.io)
@@ -62,13 +60,14 @@ Here is a list of technologies that i have experience with:
 
 [![Blender](https://img.shields.io/badge/blender%20-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=FFFFFF)](https://www.blender.org)
 [![Figma](https://img.shields.io/badge/figma%20-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=FFFFFF)](https://www.figma.com)
-[![GIMP](https://img.shields.io/badge/gimp%20-%235C5543.svg?style=for-the-badge&logo=gimp&logoColor=FFFFFF)](https://www.gimp.org)
 [![Krita](https://img.shields.io/badge/krita%20-%233BABFF.svg?style=for-the-badge&logo=krita&logoColor=FFFFFF)](https://krita.org)
+[![GIMP](https://img.shields.io/badge/gimp%20-%235C5543.svg?style=for-the-badge&logo=gimp&logoColor=FFFFFF)](https://www.gimp.org)
 [![Affinity Photo](https://img.shields.io/badge/affinity_photo%20-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=FFFFFF)](https://affinity.serif.com/en-gb/photo)
 [![Photoshop](https://img.shields.io/badge/photoshop%20-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=FFFFFF)](https://alternativeto.net/software/adobe-photoshop)
 
 [![Python](https://img.shields.io/badge/python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=FFFFFF)](https://www.python.org)
 [![Ruby](https://img.shields.io/badge/ruby%20-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=FFFFFF)](https://www.ruby-lang.org)
+[![Crystal](https://img.shields.io/badge/crystal%20-%23000000.svg?style=for-the-badge&logo=crystal&logoColor=FFFFFF)](https://crystal-lang.org/)
 [![Portable Shell](https://img.shields.io/badge/posix_shell%20-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/dylanaraps/pure-sh-bible)
 [![Javascript](https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=333333)](https://en.wikipedia.org/wiki/JavaScript)
 [![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF)](https://isocpp.org)
@@ -129,7 +128,7 @@ Here is a list of technologies that i have experience with:
 </details>
 
 <details>
-  <summary><b>🎀 OS rice</b></summary>
+  <summary><b>🍚 OS rice</b></summary>
   <br>
 
   Improving my desktop design and workflow is one of my favorite hobby, here are my [`Đotfiles`](https://github.com/NNBnh/dots) as well as my other resources:
@@ -141,8 +140,9 @@ Here is a list of technologies that i have experience with:
   [![SuperB ST](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=superb-st&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/superb-st)
   [![ANSI Art](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=ansi&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/ansi)
   [![Bmono](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bmono&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/bmono)
-  [![Da One](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=da-one&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/da-one)
   [![Base16 terminal Kakoune](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=base16-terminal.kak&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/base16-terminal.kak)
+  [![Da One](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=da-one&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/da-one)
+  [![Da One Base16](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=base16-da-one-schemes&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/base16-da-one-schemes)
 
   <br>
 </details>
