@@ -124,6 +124,7 @@ Hello, my name is **Nguyễn Nhật Anh** and I am:
 
   [![FlappyChim's assets](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=flappybirdart&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/flappybirdart)
   [![Chess logo](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=chess-logo&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/chess-logo)
+  [![NoWM](https://github-readme-stats.vercel.app/api/pin/?username=K4zoku&repo=nowm&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/K4zoku/nowm)
 
   <br>
 </details>
