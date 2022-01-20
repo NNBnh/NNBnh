@@ -20,6 +20,8 @@ Hello, my name is **Nguyễn Nhật Anh** and I am:
 
 ## 🌏 Social
 
+[![Email](https://img.shields.io/badge/email%20-%238B89CC.svg?style=for-the-badge&logo=protonmail&logoColor=FFFFFF)](mailto:nnbnh@protonmail.com)
+[![Itch.io](https://img.shields.io/badge/itch.io%20-%23FA5C5C.svg?style=for-the-badge&logo=itch.io&logoColor=FFFFFF)](https://nnbnh.itch.io)
 [![Discord](https://img.shields.io/badge/discord%20-%236E84D2.svg?style=for-the-badge&logo=discord&logoColor=FFFFFF)](https://discord.com/users/379173683555729408)
 [![Buy Me a Snack (Buy Me a Coffee)](https://img.shields.io/badge/buy_me_a_coffee%20-%23FFC387.svg?logo=buy-me-a-coffee&logoColor=333333&style=for-the-badge)](https://www.buymeacoffee.com/nnbnh)
 
