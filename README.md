@@ -97,6 +97,8 @@ Hello, my name is **Nguyễn Nhật Anh** and I am:
   <summary><b>📟 CLI tools</b></summary>
   <br>
 
+  [![SEX Utils](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=sex_utils&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/sex_utils)
+
   [![Bfetch](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bfetch&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/bfetch)
   [![Bsymlink](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bsymlink&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/bsymlink)
   [![Coderun](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=coderun&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/coderun)
