@@ -86,10 +86,10 @@ Hello, my name is **Nguyễn Nhật Anh** and I am:
 
 ## ✨ Projects
 
-[![⌨️ SuperB Keymap System](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bmap&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/bmap)
-[![🍊 Orange markup language](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=orml&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/orml)
-[![🧠 BrainAlias](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=brainalias&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/brainalias)
-[![🅱️ SuperB Bootstrap](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=superb-bootstrap&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/superb-bootstrap)
+[![⌨️ SuperB Keymap System](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bmap&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/bmap)
+[![🍊 Orange markup language](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=orml&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/orml)
+[![🧠 BrainAlias](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=brainalias&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/brainalias)
+[![🅱️ SuperB Bootstrap](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=superb-bootstrap&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/superb-bootstrap)
 
 <br>
 
@@ -97,19 +97,19 @@ Hello, my name is **Nguyễn Nhật Anh** and I am:
   <summary><b>📟 CLI tools</b></summary>
   <br>
 
-  [![SEX Utils](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=sex_utils&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/sex_utils)
-  [![Wordle CLI](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=wordle_cli&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/wordle_cli)
+  [![SEX Utils](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=sex_utils&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/sex_utils)
+  [![Wordle CLI](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=wordle_cli&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/wordle_cli)
 
-  [![Bfetch](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bfetch&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/bfetch)
-  [![Bsymlink](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bsymlink&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/bsymlink)
-  [![Coderun](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=coderun&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/coderun)
-  [![Coderun.kak](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=coderun.kak&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/coderun.kak)
-  [![Clipb](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=clipb&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/clipb)
-  [![Clipb.kak](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=clipb.kak&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/clipb.kak)
-  [![SuperB MK](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=mk&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/mk)
-  [![SuperB HR](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=hr&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/hr)
-  [![Terminal explorer](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=terminal-explorer&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/terminal-explorer)
-  [![Sed collections](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=sed-collections&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/sed-collections)
+  [![Bfetch](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bfetch&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/bfetch)
+  [![Bsymlink](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bsymlink&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/bsymlink)
+  [![Coderun](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=coderun&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/coderun)
+  [![Coderun.kak](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=coderun.kak&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/coderun.kak)
+  [![Clipb](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=clipb&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/clipb)
+  [![Clipb.kak](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=clipb.kak&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/clipb.kak)
+  [![SuperB MK](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=mk&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/mk)
+  [![SuperB HR](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=hr&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/hr)
+  [![Terminal explorer](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=terminal-explorer&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/terminal-explorer)
+  [![Sed collections](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=sed-collections&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/sed-collections)
 
   <div align="center">
 
@@ -127,9 +127,9 @@ Hello, my name is **Nguyễn Nhật Anh** and I am:
 
   Some of projects which I have been involved in graphic design:
 
-  [![FlappyChim's assets](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=flappybirdart&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/flappybirdart)
-  [![Chess logo](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=chess-logo&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/chess-logo)
-  [![NoWM](https://github-readme-stats.vercel.app/api/pin/?username=K4zoku&repo=nowm&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/K4zoku/nowm)
+  [![FlappyChim's assets](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=flappybirdart&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/flappybirdart)
+  [![Chess logo](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=chess-logo&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/chess-logo)
+  [![NoWM](https://github-readme-stats.vercel.app/api/pin/?username=K4zoku&repo=nowm&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/K4zoku/nowm)
 
   <br>
 </details>
@@ -140,13 +140,13 @@ Hello, my name is **Nguyễn Nhật Anh** and I am:
 
   Improving my desktop design and workflow is one of my favorite hobby, here are my [`Đotfiles`](https://github.com/NNBnh/dots) as well as my other resources:
 
-  [![Dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=dots&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/dots)
-  [![SuperB ST](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=superb-st&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/superb-st)
-  [![ANSI Arts](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=ansi&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/ansi)
-  [![Bmono](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bmono&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/bmono)
-  [![Base16 terminal Kakoune](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=base16-terminal.kak&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/base16-terminal.kak)
-  [![Da One](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=da-one&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/da-one)
-  [![Da One Base16](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=base16-da-one-schemes&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/base16-da-one-schemes)
+  [![Dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=dots&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/dots)
+  [![SuperB ST](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=superb-st&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/superb-st)
+  [![ANSI Arts](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=ansi&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/ansi)
+  [![Bmono](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bmono&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/bmono)
+  [![Base16 terminal Kakoune](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=base16-terminal.kak&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/base16-terminal.kak)
+  [![Da One](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=da-one&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/da-one)
+  [![Da One Base16](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=base16-da-one-schemes&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/base16-da-one-schemes)
 
   <br>
 </details>
@@ -155,9 +155,9 @@ Hello, my name is **Nguyễn Nhật Anh** and I am:
   <summary><b>🎮 Gaming</b></summary>
   <br>
 
-  [![Minecraft bookmarks](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=minecraft-bookmarks&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/minecraft-bookmarks)
-  [![Craft Everything](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=craft-everything&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/craft-everything)
-  [![NNB Arcade](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=osu-arcade&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/osu-arcade)
+  [![Minecraft bookmarks](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=minecraft-bookmarks&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/minecraft-bookmarks)
+  [![Craft Everything](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=craft-everything&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/craft-everything)
+  [![NNB Arcade](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=osu-arcade&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/osu-arcade)
 
   <br>
 </details>
