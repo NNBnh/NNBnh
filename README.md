@@ -10,7 +10,7 @@
 
 ## 💡 About
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=NNBnh&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D">
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=NNBnh&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22272E">
 
 Hello, my name is **Nguyễn Nhật Anh** and I am:
 - 🇻🇳 A freshman born and grew up in Hà Nội.
@@ -86,10 +86,10 @@ Hello, my name is **Nguyễn Nhật Anh** and I am:
 
 ## ✨ Projects
 
-[![⌨️ SuperB Keymap System](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bmap&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/bmap)
-[![🍊 Orange markup language](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=orml&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/orml)
-[![🧠 BrainAlias](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=brainalias&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/brainalias)
-[![🅱️ SuperB Bootstrap](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=superb-bootstrap&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/superb-bootstrap)
+[![⌨️ SuperB Keymap System](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bmap&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22272E)](https://github.com/NNBnh/bmap)
+[![🍊 Orange markup language](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=orml&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22272E)](https://github.com/NNBnh/orml)
+[![🧠 BrainAlias](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=brainalias&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22272E)](https://github.com/NNBnh/brainalias)
+[![🅱️ SuperB Bootstrap](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=superb-bootstrap&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22272E)](https://github.com/NNBnh/superb-bootstrap)
 
 <br>
 
@@ -98,6 +98,7 @@ Hello, my name is **Nguyễn Nhật Anh** and I am:
   <br>
 
   [![SEX Utils](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=sex_utils&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/sex_utils)
+  [![Wordle CLI](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=wordle_cli&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/wordle_cli)
 
   [![Bfetch](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bfetch&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/bfetch)
   [![Bsymlink](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bsymlink&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=22273D)](https://github.com/NNBnh/bsymlink)
