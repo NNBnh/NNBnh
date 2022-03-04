@@ -14,6 +14,7 @@
 
 Hello, my name is **Nguyễn Nhật Anh** and I am:
 - 🎨 A visual designer.
+- 📟 A command line enthusiast.
 - 💻 An open source programmer.
 - 🎮 But mainly, I'm a **game developer**.
 
