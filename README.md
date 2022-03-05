@@ -3,7 +3,6 @@
   <a href="https://opensource.org"><img src="https://img.shields.io/badge/foss%20-%2335BF5C.svg?style=for-the-badge&logo=open-source-initiative&logoColor=FFFFFF" alt="Open source initiative"></a>
   <a href="https://nixos.org"><img src="https://img.shields.io/badge/linux%20-%235277C3.svg?style=for-the-badge&logo=nixos&logoColor=FFFFFF" alt="Linux"></a>
   <a href="https://en.wikipedia.org/wiki/Command-line_interface"><img src="https://img.shields.io/badge/cli%20-%23525866.svg?style=for-the-badge&logo=windows-terminal&logoColor=FFFFFF" alt="CLI"></a>
-  <a href="https://helix-editor.com"><img src="https://img.shields.io/badge/helix%20-%23502E66.svg?style=for-the-badge&logo=sublime-text&logoColor=FFFFFF" alt="Helix"></a>
   <a href="https://godotengine.org"><img src="https://img.shields.io/badge/godot%20-%23478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=FFFFFF" alt="Godot"></a>
   <a href="https://en.wikipedia.org/wiki/Vietnam#Culture"><img src="https://img.shields.io/badge/vietnam%20-%23F75341.svg?style=for-the-badge&logo=reverbnation&logoColor=FED06E" alt="Vietnamese initiative"></a>
 </p>
