@@ -86,6 +86,7 @@ Hello, my name is **Nguyễn Nhật Anh** and I am:
 ## ✨ Projects
 
 [![⌨️ SuperB Keymap System](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bmap&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/bmap)
+[![🔤 Nối Từ](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=noi-tu&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/noi-tu)
 [![🍊 Orange markup language](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=orml&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/orml)
 [![🧠 BrainAlias](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=brainalias&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/brainalias)
 [![🅱️ SuperB Bootstrap](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=superb-bootstrap&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/superb-bootstrap)
