@@ -54,34 +54,29 @@ Hello, my name is **Nguyễn Nhật Anh** and I am:
 
 [![Godot](https://img.shields.io/badge/godot%20-%23478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=FFFFFF)](https://godotengine.org)
 [![Helix](https://img.shields.io/badge/helix%20-%23502E66.svg?style=for-the-badge&logo=sublime-text&logoColor=FFFFFF)](https://helix-editor.com)
-[![Kakoune](https://img.shields.io/badge/kakoune%20-%23F9765A.svg?style=for-the-badge&logo=kodi&logoColor=FFFFFF)](https://kakoune.org)
-[![VScode](https://img.shields.io/badge/vscode%20-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=FFFFFF)](https://vscodium.com)
 [![Neovim](https://img.shields.io/badge/neovim%20-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=FFFFFF)](https://neovim.io)
-[![Emacs](https://img.shields.io/badge/emacs%20-%237F5AB6.svg?style=for-the-badge&logo=gnu-emacs&logoColor=FFFFFF)](https://www.gnu.org/software/emacs)
 
 [![Blender](https://img.shields.io/badge/blender%20-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=FFFFFF)](https://www.blender.org)
 [![Figma](https://img.shields.io/badge/figma%20-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=FFFFFF)](https://www.figma.com)
 [![Krita](https://img.shields.io/badge/krita%20-%233BABFF.svg?style=for-the-badge&logo=krita&logoColor=FFFFFF)](https://krita.org)
-[![GIMP](https://img.shields.io/badge/gimp%20-%235C5543.svg?style=for-the-badge&logo=gimp&logoColor=FFFFFF)](https://www.gimp.org)
-[![Affinity Photo](https://img.shields.io/badge/affinity_photo%20-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=FFFFFF)](https://affinity.serif.com/en-gb/photo)
 [![Photoshop](https://img.shields.io/badge/photoshop%20-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=FFFFFF)](https://alternativeto.net/software/adobe-photoshop)
 
 [![Python](https://img.shields.io/badge/python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=FFFFFF)](https://www.python.org)
 [![Ruby](https://img.shields.io/badge/ruby%20-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=FFFFFF)](https://www.ruby-lang.org)
 [![Crystal](https://img.shields.io/badge/crystal%20-%23000000.svg?style=for-the-badge&logo=crystal&logoColor=FFFFFF)](https://crystal-lang.org/)
 [![Portable Shell](https://img.shields.io/badge/posix_shell%20-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/dylanaraps/pure-sh-bible)
-[![Javascript](https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=333333)](https://en.wikipedia.org/wiki/JavaScript)
 [![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF)](https://isocpp.org)
-[![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=FFFFFF)](https://pandoc.org)
-[![HTML5](https://img.shields.io/badge/html5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=FFFFFF)](https://pandoc.org)
+
+[![Svelte Kit](https://img.shields.io/badge/svelte_kit%20-%23FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=FFFFFF)](https://kit.svelte.dev)
+[![Tailwind CSS](https://img.shields.io/badge/tailwind_css%20-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=FFFFFF)](https://tailwindcss.com)
+[![Javascript](https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=333333)](https://en.wikipedia.org/wiki/JavaScript)
+[![Typescript](https://img.shields.io/badge/typescript%20-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=FFFFFF)](https://www.typescriptlang.org)
 
 [![Nix OS](https://img.shields.io/badge/nixos%20-%235277C3.svg?style=for-the-badge&logo=nixos&logoColor=FFFFFF)](https://nixos.org)
-[![Void Linux](https://img.shields.io/badge/void_linux%20-%23478061.svg?style=for-the-badge&logo=linux&logoColor=FFFFFF)](https://voidlinux.org)
 [![Arch Linux](https://img.shields.io/badge/arch_linux%20-%231793D1.svg?style=for-the-badge&logo=arch-linux&logoColor=FFFFFF)](https://www.archlinux.org)
-[![Manjaro](https://img.shields.io/badge/manjaro%20-%2335BF5C.svg?style=for-the-badge&logo=manjaro&logoColor=FFFFFF)](https://manjaro.org)
+[![Void Linux](https://img.shields.io/badge/void_linux%20-%23478061.svg?style=for-the-badge&logo=linux&logoColor=FFFFFF)](https://voidlinux.org)
 [![Debian](https://img.shields.io/badge/debian%20-%23A81D33.svg?style=for-the-badge&logo=debian&logoColor=FFFFFF)](https://www.debian.org)
 [![Ubuntu](https://img.shields.io/badge/ubuntu%20-%23E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=FFFFFF)](https://ubuntu.com)
-[![Windows](https://img.shields.io/badge/windows%20-%230078D6.svg?style=for-the-badge&logo=windows&logoColor=FFFFFF)](https://www.microsoft.com/en-gb/software-download/windows10)
 
 ## ✨ Projects
 
