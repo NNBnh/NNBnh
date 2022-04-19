@@ -53,9 +53,7 @@ Hello, my name is **Nguyễn Nhật Anh** and I am:
 ## ⚡ Technologies
 
 [![Godot](https://img.shields.io/badge/godot%20-%23478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=FFFFFF)](https://godotengine.org)
-[![Helix](https://img.shields.io/badge/helix%20-%23502E66.svg?style=for-the-badge&logo=sublime-text&logoColor=FFFFFF)](https://helix-editor.com)
 [![Neovim](https://img.shields.io/badge/neovim%20-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=FFFFFF)](https://neovim.io)
-
 [![Blender](https://img.shields.io/badge/blender%20-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=FFFFFF)](https://www.blender.org)
 [![Figma](https://img.shields.io/badge/figma%20-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=FFFFFF)](https://www.figma.com)
 [![Krita](https://img.shields.io/badge/krita%20-%233BABFF.svg?style=for-the-badge&logo=krita&logoColor=FFFFFF)](https://krita.org)
@@ -69,7 +67,6 @@ Hello, my name is **Nguyễn Nhật Anh** and I am:
 
 [![Svelte Kit](https://img.shields.io/badge/svelte_kit%20-%23FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=FFFFFF)](https://kit.svelte.dev)
 [![Tailwind CSS](https://img.shields.io/badge/tailwind_css%20-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=FFFFFF)](https://tailwindcss.com)
-[![Javascript](https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=333333)](https://en.wikipedia.org/wiki/JavaScript)
 [![Typescript](https://img.shields.io/badge/typescript%20-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=FFFFFF)](https://www.typescriptlang.org)
 
 [![Nix OS](https://img.shields.io/badge/nixos%20-%235277C3.svg?style=for-the-badge&logo=nixos&logoColor=FFFFFF)](https://nixos.org)
