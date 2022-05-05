@@ -77,22 +77,15 @@ Hello, my name is **Nguyễn Nhật Anh** and I am:
 
 ## ✨ Projects
 
-[![⌨️ SuperB Keymap System](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bmap&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/bmap)
-[![🔤 Nối Từ](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=noi-tu&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/noi-tu)
-[![🍊 Orange markup language](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=orml&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/orml)
-[![🧠 BrainAlias](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=brainalias&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/brainalias)
-[![🅱️ SuperB Bootstrap](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=superb-bootstrap&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/superb-bootstrap)
-
 <br>
 
 <details>
   <summary><b>📟 CLI tools</b></summary>
   <br>
-
-  [![SEX Utils](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=sex_utils&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/sex_utils)
-  [![Wordle CLI](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=wordle_cli&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/wordle_cli)
-
+  
   [![Bfetch](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bfetch&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/bfetch)
+  [![Terminal explorer](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=terminal-explorer&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/terminal-explorer)
+  [![SuperB Bootstrap](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=superb-bootstrap&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/superb-bootstrap)
   [![Bsymlink](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bsymlink&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/bsymlink)
   [![Coderun](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=coderun&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/coderun)
   [![Coderun.kak](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=coderun.kak&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/coderun.kak)
@@ -100,7 +93,6 @@ Hello, my name is **Nguyễn Nhật Anh** and I am:
   [![Clipb.kak](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=clipb.kak&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/clipb.kak)
   [![SuperB MK](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=mk&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/mk)
   [![SuperB HR](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=hr&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/hr)
-  [![Terminal explorer](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=terminal-explorer&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/terminal-explorer)
   [![Sed collections](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=sed-collections&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/sed-collections)
 
   <div align="center">
@@ -109,6 +101,16 @@ Hello, my name is **Nguyễn Nhật Anh** and I am:
   | ------------------------------------------------------------------------------------------------------------- |
 
   </div>
+
+  <br>
+</details>
+
+<details>
+  <summary><b>🌐 Webs</b></summary>
+  <br>
+
+  [![Nối Từ](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=noi-tu&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/noi-tu)
+  [![BrainAlias](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=brainalias&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/brainalias)
 
   <br>
 </details>
@@ -152,6 +154,16 @@ Hello, my name is **Nguyễn Nhật Anh** and I am:
   [![Minecraft bookmarks](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=minecraft-bookmarks&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/minecraft-bookmarks)
   [![Craft Everything](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=craft-everything&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/craft-everything)
   [![NNB Arcade](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=osu-arcade&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/osu-arcade)
+
+  <br>
+</details>
+
+<details>
+  <summary><b>🎲 Other</b></summary>
+  <br>
+
+  [![Bmap](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bmap&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/bmap)
+  [![Orange markup language](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=orml&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/orml)
 
   <br>
 </details>
