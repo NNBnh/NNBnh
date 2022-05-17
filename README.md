@@ -59,13 +59,16 @@ Hello, my name is **Nguyễn Nhật Anh** and I am:
 [![Krita](https://img.shields.io/badge/krita%20-%233BABFF.svg?style=for-the-badge&logo=krita&logoColor=FFFFFF)](https://krita.org)
 [![Photoshop](https://img.shields.io/badge/photoshop%20-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=FFFFFF)](https://alternativeto.net/software/adobe-photoshop)
 
-[![Python](https://img.shields.io/badge/python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=FFFFFF)](https://www.python.org)
 [![Ruby](https://img.shields.io/badge/ruby%20-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=FFFFFF)](https://www.ruby-lang.org)
 [![Crystal](https://img.shields.io/badge/crystal%20-%23000000.svg?style=for-the-badge&logo=crystal&logoColor=FFFFFF)](https://crystal-lang.org/)
+[![Lua](https://img.shields.io/badge/lua%20-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=FFFFFF)](https://www.lua.org)
+[![Python](https://img.shields.io/badge/python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=FFFFFF)](https://www.python.org)
 [![Portable Shell](https://img.shields.io/badge/posix_shell%20-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/dylanaraps/pure-sh-bible)
 [![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF)](https://isocpp.org)
 
-[![Svelte Kit](https://img.shields.io/badge/svelte_kit%20-%23FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=FFFFFF)](https://kit.svelte.dev)
+[![Svelte](https://img.shields.io/badge/svelte%20-%23FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=FFFFFF)](https://svelte.dev)
+[![Vue](https://img.shields.io/badge/vue.js%20-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=FFFFFF)](https://vuejs.org)
+[![Alpine.js](https://img.shields.io/badge/alpine.js%20-%238BC0D0.svg?style=for-the-badge&logo=alpine.js&logoColor=333333)](https://alpinejs.dev)
 [![Tailwind CSS](https://img.shields.io/badge/tailwind_css%20-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=FFFFFF)](https://tailwindcss.com)
 [![Typescript](https://img.shields.io/badge/typescript%20-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=FFFFFF)](https://www.typescriptlang.org)
 
@@ -101,6 +104,16 @@ Hello, my name is **Nguyễn Nhật Anh** and I am:
   | ------------------------------------------------------------------------------------------------------------- |
 
   </div>
+
+  <br>
+</details>
+
+<details>
+  <summary><b>💎 Ruby</b></summary>
+  <br>
+
+  [![Life.rb](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=life.rb&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/life.rb)
+  [![2048.rb](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=2048.rb&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/2048.rb)
 
   <br>
 </details>
