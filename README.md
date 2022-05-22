@@ -155,6 +155,7 @@ Hello, my name is **Nguyễn Nhật Anh** and I am:
   [![SuperB ST](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=superb-st&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/superb-st)
   [![ANSI Arts](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=ansi&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/ansi)
   [![Bmono](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bmono&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/bmono)
+  [![Base16 terminal Kakoune](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=base16-terminal.kak&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/base16-terminal.kak)
   [![Da One](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=da-one&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/da-one)
   [![Da One Base16](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=base16-da-one-schemes&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/base16-da-one-schemes)
 
