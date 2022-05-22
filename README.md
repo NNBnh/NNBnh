@@ -24,32 +24,6 @@ Hello, my name is **Nguyễn Nhật Anh** and I am:
 [![Discord](https://img.shields.io/badge/discord%20-%236E84D2.svg?style=for-the-badge&logo=discord&logoColor=FFFFFF)](https://discord.com/users/379173683555729408)
 [![Buy Me a Snack (Buy Me a Coffee)](https://img.shields.io/badge/buy_me_a_coffee%20-%23FFC387.svg?logo=buy-me-a-coffee&logoColor=333333&style=for-the-badge)](https://www.buymeacoffee.com/nnbnh)
 
-## ⭐ Skills
-
-```python
-#|    _  ___  _____ _               __    _ ____     __
-#|   / |/ / |/ / _ | )___      ___ / /__ (_) / /    / /________ ___
-#|  /    /    / _  |/(_-<     (_-</  '_// / / /    / __/ __/ -_) -_)
-#| /_/|_/_/|_/____/ /___/    /___/_/\_\/_/_/_/     \__/_/  \__/\__/
- │
- ├─ [Art]                   ├─ [Programming]
- │    ├─ [UI]               │    ├─ Portable POSIXshell
- │    │    ├─ HUD           │    ├─ Python, Ruby, ...
- │    │    ├─ GUI           │    └─ Godot GDscript
- │    │    ├─ TUI           │
- │    │    └─ CLI           └─ [Game_design]
- │    │                          ├─ [Level_design]
- │    ├─ [Drawing]               │    ├─ Platformer
- │    │    ├─ Pixel_art          │    ├─ Top_down
- │    │    ├─ ASCII_art          │    └─ Environmental_storytelling
- │    │    ├─ Tileset            │
- │    │    └─ Background         ├─ [Story_writing]
- │    │                          │    ├─ Character_building
- │    └─ [Web_design]            │    └─ World_building
-           ├─ Markdown           │
- │         └─ HTML + JS          └─ UX
-```
-
 ## ⚡ Technologies
 
 [![Godot](https://img.shields.io/badge/godot%20-%23478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=FFFFFF)](https://godotengine.org)
@@ -65,6 +39,7 @@ Hello, my name is **Nguyễn Nhật Anh** and I am:
 [![Python](https://img.shields.io/badge/python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=FFFFFF)](https://www.python.org)
 [![Portable Shell](https://img.shields.io/badge/posix_shell%20-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/dylanaraps/pure-sh-bible)
 [![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF)](https://isocpp.org)
+[![C#](https://img.shields.io/badge/c%23%20-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=FFFFFF)](https://wikipedia.org/wiki/C_Sharp_(programming_language))
 
 [![Svelte](https://img.shields.io/badge/svelte%20-%23FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=FFFFFF)](https://svelte.dev)
 [![Vue](https://img.shields.io/badge/vue.js%20-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=FFFFFF)](https://vuejs.org)
