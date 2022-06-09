@@ -124,8 +124,7 @@ Hello, my name is **Nguyễn Nhật Anh** and I am:
 
   Improving my desktop design and workflow is one of my favorite hobby, here are my [`Đotfiles`](https://github.com/NNBnh/dotfiles) as well as my other resources:
 
-  [![Dotfiles](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=dotfiles&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/dotfiles)
-  [![NUR packages](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=nur-packages&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/nur-packages)
+  [![Đotfiles](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=dotfiles&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/dotfiles)
   [![Bmap](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bmap&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/bmap)
   [![SuperB ST](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=superb-st&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/superb-st)
   [![ANSI Arts](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=ansi&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/ansi)
