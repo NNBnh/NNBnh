@@ -61,7 +61,14 @@ Hello, my name is **Nguyễn Nhật Anh** and I am:
 <details>
   <summary><b>📟 CLI tools</b></summary>
   <br>
-  
+
+  <div align="center">
+
+  | Check out [**Info Mono**](https://github.com/info-mono) for more CLI tools focused on displaying information. |
+  | ------------------------------------------------------------------------------------------------------------- |
+
+  </div>
+
   [![Bfetch](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bfetch&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/bfetch)
   [![Terminal explorer](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=terminal-explorer&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/terminal-explorer)
   [![SuperB Bootstrap](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=superb-bootstrap&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/superb-bootstrap)
@@ -73,13 +80,6 @@ Hello, my name is **Nguyễn Nhật Anh** and I am:
   [![SuperB MK](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=mk&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/mk)
   [![SuperB HR](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=hr&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/hr)
   [![Sed collections](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=sed-collections&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/sed-collections)
-
-  <div align="center">
-
-  | Check out [**Info Mono**](https://github.com/info-mono) for more CLI tools focused on displaying information. |
-  | ------------------------------------------------------------------------------------------------------------- |
-
-  </div>
 
   <br>
 </details>
@@ -106,7 +106,7 @@ Hello, my name is **Nguyễn Nhật Anh** and I am:
 </details>
 
 <details>
-  <summary><b>🖼️ Art</b></summary>
+  <summary><b>🖼️ Visual</b></summary>
   <br>
 
   Some of projects which I have been involved in graphic design:
@@ -120,7 +120,7 @@ Hello, my name is **Nguyễn Nhật Anh** and I am:
 </details>
 
 <details>
-  <summary><b>🍚 OS rice</b></summary>
+  <summary><b>🍚 Rice</b></summary>
   <br>
 
   Improving my desktop design and workflow is one of my favorite hobby, here are my [`Đotfiles`](https://github.com/NNBnh/dotfiles) as well as my other resources:
@@ -143,7 +143,6 @@ Hello, my name is **Nguyễn Nhật Anh** and I am:
 
   [![Minecraft bookmarks](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=minecraft-bookmarks&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/minecraft-bookmarks)
   [![Craft Everything](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=craft-everything&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/craft-everything)
-  [![NNB Arcade](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=osu-arcade&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/osu-arcade)
 
   <br>
 </details>
