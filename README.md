@@ -2,9 +2,9 @@
 <p align="center">
   <a href="https://opensource.org"><img src="https://img.shields.io/badge/foss%20-%2335BF5C.svg?style=for-the-badge&logo=openvpn&logoColor=FFFFFF" alt="Open source initiative"></a>
   <a href="https://archlinux.org"><img src="https://img.shields.io/badge/linux%20-%231793D1.svg?style=for-the-badge&logo=arch-linux&logoColor=FFFFFF" alt="Linux"></a>
-  <a href="https://en.wikipedia.org/wiki/Command-line_interface"><img src="https://img.shields.io/badge/cli%20-%23525866.svg?style=for-the-badge&logo=windows-terminal&logoColor=FFFFFF" alt="CLI"></a>
+  <a href="https://wikipedia.org/wiki/Command-line_interface"><img src="https://img.shields.io/badge/cli%20-%23525866.svg?style=for-the-badge&logo=windows-terminal&logoColor=FFFFFF" alt="CLI"></a>
   <a href="https://godotengine.org"><img src="https://img.shields.io/badge/godot%20-%23478CBF.svg?style=for-the-badge&logo=godot-engine&logoColor=FFFFFF" alt="Godot"></a>
-  <a href="https://en.wikipedia.org/wiki/Vietnam#Culture"><img src="https://img.shields.io/badge/vietnam%20-%23F75341.svg?style=for-the-badge&logo=reverbnation&logoColor=FED06E" alt="Vietnamese initiative"></a>
+  <a href="https://wikipedia.org/wiki/Vietnam#Culture"><img src="https://img.shields.io/badge/vietnam%20-%23F75341.svg?style=for-the-badge&logo=reverbnation&logoColor=FED06E" alt="Vietnamese initiative"></a>
 </p>
 
 ## 💡 About
@@ -42,12 +42,14 @@ Hello, my name is **Nguyễn Nhật Anh** and I am:
 [![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF)](https://isocpp.org)
 [![C#](https://img.shields.io/badge/c%23%20-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=FFFFFF)](https://wikipedia.org/wiki/C_Sharp_(programming_language))
 
+[![Eleventy](https://img.shields.io/badge/eleventy%20-%23292929.svg?style=for-the-badge&logo=javascript&logoColor=FFFFFF)](https://www.11ty.dev)
 [![Svelte](https://img.shields.io/badge/svelte%20-%23FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=FFFFFF)](https://svelte.dev)
 [![Vue](https://img.shields.io/badge/vue.js%20-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=FFFFFF)](https://vuejs.org)
 [![Alpine.js](https://img.shields.io/badge/alpine.js%20-%238BC0D0.svg?style=for-the-badge&logo=alpine.js&logoColor=333333)](https://alpinejs.dev)
 [![Tailwind CSS](https://img.shields.io/badge/tailwind_css%20-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=FFFFFF)](https://tailwindcss.com)
 [![Typescript](https://img.shields.io/badge/typescript%20-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=FFFFFF)](https://www.typescriptlang.org)
 
+[![Fedora](https://img.shields.io/badge/fedora%20-%2351A2DA.svg?style=for-the-badge&logo=fedora&logoColor=FFFFFF)](https://getfedora.org)
 [![Arch Linux](https://img.shields.io/badge/arch_linux%20-%231793D1.svg?style=for-the-badge&logo=arch-linux&logoColor=FFFFFF)](https://www.archlinux.org)
 [![Nix OS](https://img.shields.io/badge/nixos%20-%235277C3.svg?style=for-the-badge&logo=nixos&logoColor=FFFFFF)](https://nixos.org)
 [![Void Linux](https://img.shields.io/badge/void_linux%20-%23478061.svg?style=for-the-badge&logo=linux&logoColor=FFFFFF)](https://voidlinux.org)
@@ -126,13 +128,14 @@ Hello, my name is **Nguyễn Nhật Anh** and I am:
   Improving my desktop design and workflow is one of my favorite hobby, here are my [`Đotfiles`](https://github.com/NNBnh/dotfiles) as well as my other resources:
 
   [![Đotfiles](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=dotfiles&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/dotfiles)
+  [![Kickstart.zsh](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=kickstart.zsh&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/kickstart.zsh)
   [![Bmap](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bmap&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/bmap)
-  [![SuperB ST](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=superb-st&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/superb-st)
   [![ANSI Arts](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=ansi&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/ansi)
-  [![Bmono](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bmono&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/bmono)
-  [![Base16 terminal Kakoune](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=base16-terminal.kak&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/base16-terminal.kak)
   [![Da One](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=da-one&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/da-one)
   [![Da One Base16](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=base16-da-one-schemes&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/base16-da-one-schemes)
+  [![Base16 terminal Kakoune](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=base16-terminal.kak&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/base16-terminal.kak)
+  [![SuperB ST](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=superb-st&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/superb-st)
+  [![Bmono](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=bmono&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/bmono)
 
   <br>
 </details>
