@@ -87,36 +87,12 @@ Hello, my name is **Nguyễn Nhật Anh** and I am:
 </details>
 
 <details>
-  <summary><b>💎 Ruby</b></summary>
-  <br>
-
-  [![Life.rb](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=life.rb&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/life.rb)
-  [![2048.rb](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=2048.rb&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/2048.rb)
-
-  <br>
-</details>
-
-<details>
   <summary><b>🌐 Webs</b></summary>
   <br>
 
   [![Nối Từ](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=noi-tu&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/noi-tu)
   [![BrainAlias](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=brainalias&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/brainalias)
   [![Orange markup language](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=orml&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/orml)
-
-  <br>
-</details>
-
-<details>
-  <summary><b>🖼️ Visual</b></summary>
-  <br>
-
-  Some of projects which I have been involved in graphic design:
-
-  [![Dino's assets](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=dino-assets&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/dino-assets)
-  [![FlappyChim's assets](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=flappybirdart&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/flappybirdart)
-  [![Chess logo](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=chess-logo&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/chess-logo)
-  [![NoWM](https://github-readme-stats.vercel.app/api/pin/?username=K4zoku&repo=nowm&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/K4zoku/nowm)
 
   <br>
 </details>
