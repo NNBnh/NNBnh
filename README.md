@@ -17,10 +17,6 @@ Hello, my name is **Nguyễn Nhật Anh** and I am:
 - 💻 An open source programmer.
 - 🎮 But mainly, I'm a **game developer**.
 
-[![Email](https://img.shields.io/badge/email%20-%238B89CC.svg?style=for-the-badge&logo=protonmail&logoColor=FFFFFF)](mailto:nnbnh@protonmail.com)
-[![Itch.io](https://img.shields.io/badge/itch.io%20-%23FA5C5C.svg?style=for-the-badge&logo=itch.io&logoColor=FFFFFF)](https://nnbnh.itch.io)
-[![Buy Me a Coffee](https://img.shields.io/badge/buy_me_a_coffee%20-%23FFC387.svg?logo=buy-me-a-coffee&logoColor=333333&style=for-the-badge)](https://www.buymeacoffee.com/nnbnh)
-
 <details>
   <summary><h2>✨ Projects</h2></summary>
   <div align="center">
@@ -35,7 +31,6 @@ Hello, my name is **Nguyễn Nhật Anh** and I am:
   [![Clipb](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=clipb&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/clipb)
   [![Clipb.kak](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=clipb.kak&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/clipb.kak)
   [![Da One](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=da-one&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/da-one)
-  [![Da One Base16](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=base16-da-one-schemes&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/base16-da-one-schemes)
   [![Base16 terminal Kakoune](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=base16-terminal.kak&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/base16-terminal.kak)
 
 </details>
