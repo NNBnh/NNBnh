@@ -23,8 +23,6 @@ Hello, my name is **Nguyễn Nhật Anh** and I am:
 
 <details>
   <summary><h2>✨ Projects</h2></summary>
-  <br>
-
   <div align="center">
 
   | Check out [**Info Mono**](https://github.com/info-mono) for more CLI tools focused on displaying information. |
@@ -33,15 +31,13 @@ Hello, my name is **Nguyễn Nhật Anh** and I am:
   </div>
 
   [![Kickstart.zsh](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=kickstart.zsh&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/kickstart.zsh)
-  [![Base16 terminal Kakoune](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=base16-terminal.kak&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/base16-terminal.kak)
-  [![Coderun](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=coderun&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/coderun)
-  [![Coderun.kak](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=coderun.kak&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/coderun.kak)
+  [![SuperB MK](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=mk&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/mk)
   [![Clipb](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=clipb&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/clipb)
   [![Clipb.kak](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=clipb.kak&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/clipb.kak)
-  [![SuperB MK](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=mk&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/mk)
-  [![SuperB HR](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=hr&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/hr)
+  [![Coderun](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=coderun&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/coderun)
+  [![Coderun.kak](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=coderun.kak&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/coderun.kak)
   [![Da One](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=da-one&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/da-one)
   [![Da One Base16](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=base16-da-one-schemes&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/base16-da-one-schemes)
+  [![Base16 terminal Kakoune](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=base16-terminal.kak&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/base16-terminal.kak)
 
-  <br>
 </details>
