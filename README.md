@@ -17,20 +17,11 @@ Hello, my name is **Nguyễn Nhật Anh** and I am:
 - 💻 An open source programmer.
 - 🎮 But mainly, I'm a **game developer**.
 
-<details>
-  <summary><h2>✨ Projects</h2></summary>
-  <div align="center">
+<!--
+| Check out [**Info Mono**](https://github.com/info-mono) for more CLI tools focused on displaying information. |
+| ------------------------------------------------------------------------------------------------------------- |
 
-  | Check out [**Info Mono**](https://github.com/info-mono) for more CLI tools focused on displaying information. |
-  | ------------------------------------------------------------------------------------------------------------- |
-
-  </div>
-
-  [![Kickstart.zsh](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=kickstart.zsh&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/kickstart.zsh)
-  [![SuperB MK](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=mk&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/mk)
-  [![Clipb](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=clipb&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/clipb)
-  [![Clipb.kak](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=clipb.kak&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/clipb.kak)
-  [![Da One](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=da-one&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/da-one)
-  [![Base16 terminal Kakoune](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=base16-terminal.kak&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/base16-terminal.kak)
-
-</details>
+[![Kickstart.zsh](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=kickstart.zsh&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/kickstart.zsh)
+[![SuperB MK](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=mk&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/mk)
+[![Da One](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=da-one&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/da-one)
+-->
