@@ -9,10 +9,11 @@
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=NNBnh&hide_border=true&show_icons=true&title_color=89DCEB&text_color=C6D0F5&icon_color=CBA6F7&bg_color=303446">
 
-Hello, my name is **Nguyễn Nhật Anh**, and I am:
-- 🎨 A visual designer
-- 📟 TTY enthusiast <sub>_(check out [Info Mono](https://github.com/info-mono))_</sub>
-- 🎮 Mainly, I'm a game developer
+## Hello, My name is Nguyễn Nhật Anh
+
+- 🎨 I'm a visual designer
+- 📟 TTY enthusiast <sub>_(working on [Info Mono](https://github.com/info-mono))_</sub>
+- 🎮 But mainly, a game developer
 
 [![My Blog](https://img.shields.io/badge/my_blog%20-%2389DCEB.svg?style=for-the-badge&logo=markdown&logoColor=333333)](https://nnbnh.github.io/blog)
 [![Itch.io](https://img.shields.io/badge/my_games%20-%23EBA0AC.svg?style=for-the-badge&logo=itch.io&logoColor=333333)](https://nnbnh.itch.io)
