@@ -7,7 +7,7 @@
   <a href="https://svelte.dev"><img src="https://img.shields.io/badge/svelte%20-%23FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=FFFFFF" alt="Svelte"></a>
 </p>
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=NNBnh&hide_border=true&show_icons=true&title_color=99D1DB&text_color=C6D0F5&icon_color=BABBF1&bg_color=303446">
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=NNBnh&hide_border=true&show_icons=true&title_color=89DCEB&text_color=C6D0F5&icon_color=CBA6F7&bg_color=303446">
 
 Hello, my name is **Nguyễn Nhật Anh**, and I am:
 - 🎨 A visual designer
@@ -15,6 +15,6 @@ Hello, my name is **Nguyễn Nhật Anh**, and I am:
 - 💻 An open source programmer
 - 🎮 Mainly, I'm a game developer
 
-[![My Blog](https://img.shields.io/badge/my_blog%20-%23BABBF1.svg?style=for-the-badge&logo=markdown&logoColor=333333)](https://nnbnh.github.io/blog)
-[![Itch.io](https://img.shields.io/badge/my_games%20-%23EA999C.svg?style=for-the-badge&logo=itch.io&logoColor=333333)](https://nnbnh.itch.io)
-[![Buy Me a Snack (Buy Me a Coffee)](https://img.shields.io/badge/buy_me_a_coffee%20-%23E5C890.svg?logo=buy-me-a-coffee&logoColor=333333&style=for-the-badge)](https://www.buymeacoffee.com/nnbnh)
+[![My Blog](https://img.shields.io/badge/my_blog%20-%2389DCEB.svg?style=for-the-badge&logo=markdown&logoColor=333333)](https://nnbnh.github.io/blog)
+[![Itch.io](https://img.shields.io/badge/my_games%20-%23EBA0AC.svg?style=for-the-badge&logo=itch.io&logoColor=333333)](https://nnbnh.itch.io)
+[![Buy Me a Snack (Buy Me a Coffee)](https://img.shields.io/badge/buy_me_a_coffee%20-%23F9E2AF.svg?logo=buy-me-a-coffee&logoColor=333333&style=for-the-badge)](https://www.buymeacoffee.com/nnbnh)
