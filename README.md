@@ -7,7 +7,7 @@
   <a href="https://svelte.dev"><img src="https://img.shields.io/badge/svelte%20-%23FF3E00.svg?style=for-the-badge&logo=svelte&logoColor=FFFFFF" alt="Svelte"></a>
 </p>
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=NNBnh&hide_border=true&show_icons=true&title_color=89DCEB&text_color=C6D0F5&icon_color=CBA6F7&bg_color=303446">
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=NNBnh&hide_border=true&show_icons=true&title_color=89DCEB&text_color=C6D0F5&icon_color=89DCEB&bg_color=303446">
 
 ## Hello, My name is Nguyễn Nhật Anh!
 
