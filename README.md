@@ -22,6 +22,5 @@ Hello, my name is **Nguyễn Nhật Anh** and I am:
 | ------------------------------------------------------------------------------------------------------------- |
 
 [![Kickstart.zsh](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=kickstart.zsh&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/kickstart.zsh)
-[![SuperB MK](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=mk&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/mk)
 [![Da One](https://github-readme-stats.vercel.app/api/pin/?username=NNBnh&repo=da-one&hide_border=true&show_icons=true&title_color=6BB8FF&text_color=FFFFFF&icon_color=FFC387&bg_color=171726)](https://github.com/NNBnh/da-one)
 -->
