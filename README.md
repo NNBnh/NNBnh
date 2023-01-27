@@ -12,7 +12,6 @@
 Hello, my name is **Nguyễn Nhật Anh**, and I am:
 - 🎨 A visual designer
 - 📟 TTY enthusiast <sub>_(check out [Info Mono](https://github.com/info-mono))_</sub>
-- 💻 An open source programmer
 - 🎮 Mainly, I'm a game developer
 
 [![My Blog](https://img.shields.io/badge/my_blog%20-%2389DCEB.svg?style=for-the-badge&logo=markdown&logoColor=333333)](https://nnbnh.github.io/blog)
