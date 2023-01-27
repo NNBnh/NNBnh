@@ -9,7 +9,7 @@
 
 <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=NNBnh&hide_border=true&show_icons=true&title_color=89DCEB&text_color=C6D0F5&icon_color=CBA6F7&bg_color=303446">
 
-## Hello, My name is Nguyễn Nhật Anh
+## Hello, My name is Nguyễn Nhật Anh!
 
 - 🎨 I'm a visual designer
 - 📟 TTY enthusiast <sub>_(working on [Info Mono](https://github.com/info-mono))_</sub>
