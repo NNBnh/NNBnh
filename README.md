@@ -14,9 +14,9 @@
 
 ## Hello, My name is Nguyễn Nhật Anh!
 
-- 🌐 I'm a front-end web developer,
+- 🌐 I'm a front-end web developer.
 - 📟 TTY enthusiast. <sub>_(working on [Info Mono](https://github.com/info-mono))_</sub>
-- 🎨 But mainly, a game developer,
+- 🎨 But mainly, a game developer.
 
 [![My Blog](https://img.shields.io/badge/my_blog%20-%2389DCEB.svg?style=for-the-badge&logo=markdown&logoColor=333333)](https://nnbnh.github.io/blog)
 [![Itch.io](https://img.shields.io/badge/my_games%20-%23EBA0AC.svg?style=for-the-badge&logo=itch.io&logoColor=333333)](https://nnbnh.itch.io)
