@@ -18,6 +18,6 @@
 - 🌐 I'm also a frontend-web-dev.
 - 📟 And a command-line enthusiast.
 
-[![My Blog](https://img.shields.io/badge/my_blog%20-%2389DCEB.svg?style=for-the-badge&logo=markdown&logoColor=333333)](https://nnbnh.github.io/blog)
+[![My Blog](https://img.shields.io/badge/my_blog%20-%2389DCEB.svg?style=for-the-badge&logo=markdown&logoColor=333333)](https://nnb.codeberg.page/blog)
 [![Itch.io](https://img.shields.io/badge/my_games%20-%23EBA0AC.svg?style=for-the-badge&logo=itch.io&logoColor=333333)](https://nnbnh.itch.io)
 [![Buy Me a Snack (Buy Me a Coffee)](https://img.shields.io/badge/buy_me_a_coffee%20-%23F9E2AF.svg?logo=buy-me-a-coffee&logoColor=333333&style=for-the-badge)](https://www.buymeacoffee.com/nnbnh)
