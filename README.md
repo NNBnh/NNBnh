@@ -23,3 +23,6 @@
 [![Buy Me a Snack (Buy Me a Coffee)](https://img.shields.io/badge/buy_me_a_coffee%20-%23F9E2AF.svg?logo=buy-me-a-coffee&logoColor=333333&style=for-the-badge)](https://www.buymeacoffee.com/nnbnh)
 
 ### [Update: I moved to Codeberg!](https://codeberg.org/NNB)
+
+> [!NOTE]  
+> Highlights information that users should take into account, even when skimming.
