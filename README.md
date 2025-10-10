@@ -6,7 +6,7 @@
   <a href="https://opensource.org"><img src="https://img.shields.io/badge/foss%20-%23A6E3A1.svg?style=for-the-badge&logo=openvpn&logoColor=333333" alt="Open source initiative"></a>
   <a href="https://nnb.codeberg.page/blog/en/posts/13"><img src="https://img.shields.io/badge/linux%20-%2394E2D5.svg?style=for-the-badge&logo=fedora&logoColor=333333" alt="Linux"></a>
   <a href="https://godotengine.org"><img src="https://img.shields.io/badge/godot%20-%2374C7EC.svg?style=for-the-badge&logo=godot-engine&logoColor=333333" alt="Godot"></a>
-  <a href="https://gleam.run"><img src="https://img.shields.io/badge/gleam%20-%23F5C2E7.svg?style=for-the-badge&logo=erlang&logoColor=333333" alt="Gleam"></a>
+  <a href="https://gleam.run"><img src="https://img.shields.io/badge/gleam%20-%23F5C2E7.svg?style=for-the-badge&logo=gleam&logoColor=333333" alt="Gleam"></a>
   <a href="https://nnb.codeberg.page/ruby-on-shell"><img src="https://img.shields.io/badge/ruby%20-%23EBA0AC.svg?style=for-the-badge&logo=ruby&logoColor=333333" alt="Ruby"></a>
 </p>
 
