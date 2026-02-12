@@ -10,8 +10,8 @@
   <a href="https://nnb.codeberg.page/ruby-on-shell"><img src="https://img.shields.io/badge/ruby%20-%23EBA0AC.svg?style=for-the-badge&logo=ruby&logoColor=333333" alt="Ruby"></a>
 </p>
 
-<a href="https://metrics.lecoq.io/insights/NNBnh#gh-light-mode-only"><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=NNBnh&hide_border=true&show_icons=true&title_color=04A5E5&text_color=4C4F69&icon_color=04A5E5&bg_color=0000#gh-light-mode-only" /></a>
-<a href="https://metrics.lecoq.io/insights/NNBnh#gh-dark-mode-only"><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=NNBnh&hide_border=true&show_icons=true&title_color=89DCEB&text_color=C6D0F5&icon_color=89DCEB&bg_color=0000#gh-dark-mode-only" /></a>
+<!-- <a href="https://metrics.lecoq.io/insights/NNBnh#gh-light-mode-only"><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=NNBnh&hide_border=true&show_icons=true&title_color=04A5E5&text_color=4C4F69&icon_color=04A5E5&bg_color=0000#gh-light-mode-only" /></a>
+<a href="https://metrics.lecoq.io/insights/NNBnh#gh-dark-mode-only"><img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=NNBnh&hide_border=true&show_icons=true&title_color=89DCEB&text_color=C6D0F5&icon_color=89DCEB&bg_color=0000#gh-dark-mode-only" /></a> -->
 
 ## Hello, My name is Nguyễn Nhật Anh!
 
